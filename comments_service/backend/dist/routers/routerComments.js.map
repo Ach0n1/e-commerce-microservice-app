@@ -1,0 +1,1 @@
+{"version":3,"file":"routerComments.js","sourceRoot":"","sources":["../../src/routers/routerComments.ts"],"names":[],"mappings":";;;;;AAAA,sDAA8B;AAC9B,4EAAwE;AAExE,MAAM,cAAc,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAExC,cAAc,CAAC,KAAK,CAAC,cAAc,CAAC,CAAC,IAAI,CACrC,CAAC,GAAG,EAAE,GAAG,EAAE,EAAE,CAAC,IAAI,wCAAkB,EAAE,CAAC,WAAW,CAAC,GAAG,EAAC,GAAG,CAAC,CAC9D,CAAA;AAGD,kBAAe,cAAc,CAAC"}

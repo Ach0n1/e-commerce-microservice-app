@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "64c039ece77b48c1225fde07"
+  },
+  "id": 0,
+  "name": "Moja prodavnica Zvezdara",
+  "address": "Batutova 12",
+  "position": {
+    "lat": 44.796888691,
+    "lng": 20.499734166
+  },
+  "info": "Moja prodavnica Batutova 12 Zvezdara",
+  "workingHours": {
+    "monday": "08:00h - 20:00h",
+    "thuesday": "08:00h - 20:00h",
+    "wednesday": "08:00h - 20:00h",
+    "thursday": "08:00h - 20:00h",
+    "friday": "08:00h - 20:00h",
+    "saturday": "08:00h - 17:00h",
+    "sunday": "Neradan dan"
+  }
+},{
+  "_id": {
+    "$oid": "64c039ece77b48c1225fde08"
+  },
+  "id": 1,
+  "name": "Moja prodavnica Zemun",
+  "address": "Prvomajska 4",
+  "position": {
+    "lat": 44.8412186628,
+    "lng": 20.3954078479
+  },
+  "info": "Moja prodavnica Prvomajska 4 Zemun",
+  "workingHours": {
+    "monday": "08:00h - 20:00h",
+    "thuesday": "08:00h - 20:00h",
+    "wednesday": "08:00h - 20:00h",
+    "thursday": "08:00h - 20:00h",
+    "friday": "08:00h - 20:00h",
+    "saturday": "Neradan dan",
+    "sunday": "Neradan dan"
+  }
+},{
+  "_id": {
+    "$oid": "64c039ece77b48c1225fde09"
+  },
+  "id": 2,
+  "name": "Moja prodavnica Čukarica",
+  "address": "Jablanička 5",
+  "position": {
+    "lat": 44.7488509221,
+    "lng": 20.4134576184
+  },
+  "info": "Moja prodavnica Jablanička 5 Čukarica",
+  "workingHours": {
+    "monday": "09:00h - 17:00h",
+    "thuesday": "09:00h - 17:00h",
+    "wednesday": "09:00h - 17:00h",
+    "thursday": "09:00h - 17:00h",
+    "friday": "09:00h - 17:00h",
+    "saturday": "09:00h - 14:00h",
+    "sunday": "Neradan dan"
+  }
+},{
+  "_id": {
+    "$oid": "64c039ece77b48c1225fde0a"
+  },
+  "id": 3,
+  "name": "Moja prodavnica Voždovac",
+  "address": "Vojvode Stepe 521",
+  "position": {
+    "lat": 44.7422386459,
+    "lng": 20.5000400719
+  },
+  "info": "Moja prodavnica Vojvode Stepe 521 Voždovac",
+  "workingHours": {
+    "monday": "08:00h - 20:00h",
+    "thuesday": "08:00h - 20:00h",
+    "wednesday": "08:00h - 20:00h",
+    "thursday": "08:00h - 20:00h",
+    "friday": "08:00h - 20:00h",
+    "saturday": "08:00h - 20:00h",
+    "sunday": "Neradan dan"
+  }
+},{
+  "_id": {
+    "$oid": "64c039ece77b48c1225fde0b"
+  },
+  "id": 4,
+  "name": "Moja prodavnica Novi Beograd",
+  "address": "Gandijeva 133",
+  "position": {
+    "lat": 44.8019587452,
+    "lng": 20.3888852013
+  },
+  "info": "Moja prodavnica Gandijeva 133 Novi Beograd",
+  "workingHours": {
+    "monday": "00:00h - 24:00h",
+    "thuesday": "00:00h - 24:00h",
+    "wednesday": "00:00h - 24:00h",
+    "thursday": "00:00h - 24:00h",
+    "friday": "00:00h - 24:00h",
+    "saturday": "00:00h - 24:00h",
+    "sunday": "00:00h - 24:00h"
+  }
+},{
+  "_id": {
+    "$oid": "64c039ece77b48c1225fde0c"
+  },
+  "id": 5,
+  "name": "Moja prodavnica Palilula",
+  "address": "Dolovska 11",
+  "position": {
+    "lat": 44.8531697345,
+    "lng": 20.4833161106
+  },
+  "info": "Moja prodavnica Dolovska 11 Palilula",
+  "workingHours": {
+    "monday": "08:00h - 20:00h",
+    "thuesday": "08:00h - 20:00h",
+    "wednesday": "08:00h - 20:00h",
+    "thursday": "08:00h - 20:00h",
+    "friday": "08:00h - 20:00h",
+    "saturday": "08:00h - 20:00h",
+    "sunday": "Neradan dan"
+  }
+},{
+  "_id": {
+    "$oid": "64c0e2d71c0f28c2dee1e7ce"
+  },
+  "id": 7,
+  "name": "Prodavnica",
+  "address": "Rusanj",
+  "position": {
+    "lat": 44.64451718887092,
+    "lng": 20.470021215088657
+  },
+  "info": "Prodavnica Rusanj",
+  "workingHours": {
+    "monday": "08:00h -17:00h",
+    "thuesday": "08:00h -17:00h",
+    "wednesday": "08:00h -17:00h",
+    "thursday": "08:00h -17:00h",
+    "friday": "08:00h -17:00h",
+    "saturday": "08:00h -17:00h",
+    "sunday": "08:00h -17:00h"
+  },
+  "__v": 0
+}]

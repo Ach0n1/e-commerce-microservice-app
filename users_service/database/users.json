@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "firstName": "Petar",
+        "lastName" : "Peric",
+        "email" : "pera@gmail.com",
+        "password" : "pera123",
+        "type": "0",
+        "secret": "dsas"
+    },
+    {
+        "id": 1,
+        "firstName": "Zivorad",
+        "lastName" : "Zikic",
+        "email" : "zika@gmail.com",
+        "password" : "zika123",
+        "type": "1",
+        "secret": "dsasd312fd"
+    },
+    {
+        "id": 2,
+        "firstName": "Miodrag",
+        "lastName" : "Mikic",
+        "email" : "miki@gmail.com",
+        "password" : "miki123",
+        "type": "1",
+        "secret": "d32f12"
+    },
+    {
+        "id": 3,
+        "firstName": "Jelena",
+        "lastName" : "Jankovic",
+        "email" : "jeca@gmail.com",
+        "password" : "jeca123",
+        "type": "1",
+        "secret": "d4124fa"
+    }
+]

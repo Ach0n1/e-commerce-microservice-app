@@ -1,0 +1,2206 @@
+[{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd44"
+  },
+  "id": 0,
+  "name": "Najlepše želje čokolada mlečna Soko Štark",
+  "price": 209,
+  "photo": "http://localhost:4000/images/najlepse_zelje_mlecna.jpg",
+  "category": "slatkisi",
+  "subcategory": "cokolada",
+  "availableQuantity": 1082,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "200g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Šećer, punomasno mleko u prahu, kakao maslac, kakao masa, obrano mleko u prahu,emulgator aroma.",
+    "manufacturer": "Soko Štark d.o.o., Kumodraška 249, 11010 Beograd",
+    "brand": "Soko Štark",
+    "briefDescription": "Mlečna čokolada sa visokim sadržajem mleka."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd45"
+  },
+  "id": 1,
+  "name": "Menaž čokolada za kuvanje",
+  "price": 99,
+  "photo": "http://localhost:4000/images/menaz.jpg",
+  "category": "slatkisi",
+  "subcategory": "cokolada",
+  "availableQuantity": 549,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Šećer, kakao masa, kakao maslac,emulgatori,aroma.",
+    "manufacturer": "Soko Štark d.o.o., Kumodraška 249, 11010 Beograd",
+    "brand": "Soko Štark",
+    "briefDescription": "Čokolada za jelo i kuvanje."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd46"
+  },
+  "id": 2,
+  "name": "Plazma keks",
+  "price": 265,
+  "photo": "http://localhost:4000/images/plazma.jpg",
+  "category": "slatkisi",
+  "subcategory": "keks",
+  "availableQuantity": 124,
+  "onSale": true,
+  "discount": 5,
+  "description": {
+    "weight": "300g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično brašno, šećer, maslac, sojino brašno, biljna mast (palmina), med, dekstroza, surutka u prahu, obrano mleko u prahu, sredstva za dizanje testa (amonijum- hidrogenkarbonat, natrijum- hidrogenkarbonat), so, emulgator sojin leticin, vitamini ((vitamin C (L-aksorbinska kiselina), niacin (nikotinamid), vitamin B6 (piridoksin- hidrohlorid), tiamin (tiamin- mononitrat)), antioksidans kalijum- metabisufit, aroma.",
+    "manufacturer": "Koncern  Bambi a.d., Đure Đakovića bb, Požarevac Sebija",
+    "brand": "Bambi",
+    "briefDescription": "Proverena plazma formula je jedinstvena, savršeno izbalansirana kombinacije nutritivno vrednih i visoko kvalitetnih sastojaka, minerala i vitamina. Keks sa dodatim vitaminima."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd47"
+  },
+  "id": 3,
+  "name": "Jaffa biskvit",
+  "price": 119,
+  "photo": "http://localhost:4000/images/jafa.jpg",
+  "category": "slatkisi",
+  "subcategory": "keks",
+  "availableQuantity": 124,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično brašno, glukozni sirup, sveža jaja, kakao maslac, kakao-prah sa redukovanim sadržajem kakao- maslaca, biljno ulje (suncokretovo), biljna mast(palmina, shea), humektant: glicerol, sredstvo za želiranje: pektin, kukuruzni skrob, sredstvo za dizanje testa: dinatrijum- difosfat, natrijum- hidrogenkarbonat, amonijum- hidrogenkarbonat, limunska kiselina, regulator kiselosti: trinatrijum citrat, voćni sok od pomorandže (0.8%), konzervans: kalijum sorbat, emulgator: sojin licitin, E476, prirodna aroma pomorandže. Čokolada sadrži: min 46% ukupne suve materije kakao- delova. Čokolada sadrži biljnu mast dodatak kakao-maslacu.",
+    "manufacturer": "Jaffa doo Crvenka , Maršala Tita 245, 25220 Crvenka, Srbija",
+    "brand": "Jaffa",
+    "briefDescription": "Jaffa cakes- biskvit sa voćnim želeom (42%) preliven čokoladom (20%). Može sadržati tragove jezgrastog voća, mleka, susama, celera i slačice."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd48"
+  },
+  "id": 4,
+  "name": "Medeno srce",
+  "price": 143,
+  "photo": "http://localhost:4000/images/medeno_srce.jpg",
+  "category": "slatkisi",
+  "subcategory": "keks",
+  "availableQuantity": 653,
+  "onSale": true,
+  "discount": 30,
+  "description": {
+    "weight": "150g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično i raženo brašno, šećer, med (15%), dekstroza, mešavina začina, sredstvo za dizanje testa: amonijumbikarbonat i natrijumbikarbonat, regulator kiselosti: E501, kiseline: mlečna i limunska kiselina, voćno punjenje 25% (kaša (jabuka i kajsija), šećer, glukozni sirup, regulator kiselosti: limunska kiselina, konzervans: kalijum sorbat), čokoladni preliv 20% (kakao masa, šećer, kakao maslac, emulgatori: suncokretov leticin i E476). Čokoladni preliv sadrži najmanje 47% suve materije kakao delova.",
+    "manufacturer": "PIONIR d.o.o. Beograd, FABRIKA Subotica, Senćanski put 83",
+    "brand": "Pionir",
+    "briefDescription": "Punjeni čokoladirani medenjak. Može da sadrži tragove mleka, lešnika i jaja."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd49"
+  },
+  "id": 5,
+  "name": "Noblice",
+  "price": 119,
+  "photo": "http://localhost:4000/images/noblice.jpg",
+  "category": "slatkisi",
+  "subcategory": "keks",
+  "availableQuantity": 712,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "250g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično brašno, 28 kakao punjenje (šećer, hidrogenizovana biljna mast (soja, palma), 8% kakao prah, surutka u prahu), kakao prah, glukozni sirup, surutka u prahu, sredstva za dizanje testa (amonijum bikarbonat, natrijum bikarbonat, natrijum pirofosfat), kuhinjska so, boja- karamel amonijačno sulfitni, emulgator- sojin lecitin, aroma.",
+    "manufacturer": "AD BANINI Kikinda,, Nikole Telse 5, Kikinda Srbija",
+    "brand": "Banini",
+    "briefDescription": "Punjeno čajno pecivo. Proizvod može da sadrži tragove jaja, badema i lešnika."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd4a"
+  },
+  "id": 6,
+  "name": "Chipsy rebrasti XXL slani",
+  "price": 185,
+  "photo": "http://localhost:4000/images/chipsy_rebrasti_slani.jpg",
+  "category": "grickalice",
+  "subcategory": "cips",
+  "availableQuantity": 1290,
+  "onSale": true,
+  "discount": 24,
+  "description": {
+    "weight": "150g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Krompir, kuhinjska so, ulje.",
+    "manufacturer": "MARBO PRODUCT DOO",
+    "brand": "Marbo product",
+    "briefDescription": "Hrskavi slani čips rebrastog reza."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd4b"
+  },
+  "id": 7,
+  "name": "Chipsy rebrasti tzatziki",
+  "price": 70,
+  "photo": "http://localhost:4000/images/chipsy_rebrasti_tzatziki.jpg",
+  "category": "grickalice",
+  "subcategory": "cips",
+  "availableQuantity": 53,
+  "onSale": true,
+  "discount": 28,
+  "description": {
+    "weight": "40g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Krompir, kuhinjska so, ulje, tzatziki.",
+    "manufacturer": "MARBO PRODUCT DOO",
+    "brand": "Marbo product",
+    "briefDescription": "Neodoljivi ukus tzatzikija u rebrastom rezu."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd4c"
+  },
+  "id": 8,
+  "name": "Doritos BBQ",
+  "price": 155,
+  "photo": "http://localhost:4000/images/doritos_bbq.jpg",
+  "category": "grickalice",
+  "subcategory": "cips",
+  "availableQuantity": 239,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Krompir, kuhinjska so, ulje, biber, pojačavač ukusa, emulgator.",
+    "manufacturer": "MARBO PRODUCT DOO",
+    "brand": "Marbo product",
+    "briefDescription": "Tortilja čips sa ukusom roštilj sosa •Izuzetna hrskavost i intenzivan ukus."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd4d"
+  },
+  "id": 9,
+  "name": "Pringles original",
+  "price": 179,
+  "photo": "http://localhost:4000/images/pringles_original.jpg",
+  "category": "grickalice",
+  "subcategory": "cips",
+  "availableQuantity": 42,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "40g",
+    "countryOfOrigin": "Poljska",
+    "ingredients": "Dehidrisani krompir, biljno ulje, biljna mast, pirinčano brašno, pšenični skrob, emulgator E471, maltodekstrin, modifikovani pirinačni skrob.",
+    "manufacturer": "UMA Investment SP Z.O.O., Ul. Wschodnia 3",
+    "brand": "UMA investment",
+    "briefDescription": "Čips Pringles original."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd4e"
+  },
+  "id": 10,
+  "name": "Smoki",
+  "price": 45,
+  "photo": "http://localhost:4000/images/smoki_50g.jpg",
+  "category": "grickalice",
+  "subcategory": "flips",
+  "availableQuantity": 2918,
+  "onSale": true,
+  "discount": 22,
+  "description": {
+    "weight": "50g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Kukuruzni griz, kikiriki (22%), biljna mast (palmina), sojino brašno, kuhinjska so.",
+    "manufacturer": "Soko Štark d.o.o., Kumodraška 249, 11010 Beograd",
+    "brand": "Soko Štark",
+    "briefDescription": "Flips sa kikirikijem. Proizvod može sadržati tragove jezgrastog voća, mleka i žitarica koje sadrže gluten."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd4f"
+  },
+  "id": 11,
+  "name": "Čoko smoki",
+  "price": 59,
+  "photo": "http://localhost:4000/images/coko_smoki_40g.jpg",
+  "category": "grickalice",
+  "subcategory": "flips",
+  "availableQuantity": 343,
+  "onSale": true,
+  "discount": 33,
+  "description": {
+    "weight": "40g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Šećer, kukuruzni griz, punomasno mleko u prahu, kakao maslac, kakao masa, obrano mleko u prahu, stabilizator (E414), sredstvo za glaziranje (E904), kakao prah sa redukovanim sadržajem masti, pšenični griz, emulgator (sojin leticin), aroma.",
+    "manufacturer": "Soko Štark d.o.o., Kumodraška 249, 11010 Beograd",
+    "brand": "Soko Štark",
+    "briefDescription": "Flips preliven mlečnom čokoladom. Proizvod može da sadrži tragove kikirikija i jezgrastog voća."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd50"
+  },
+  "id": 12,
+  "name": "Clipsy flips sa ukusom sira",
+  "price": 119,
+  "photo": "http://localhost:4000/images/clipsy_sa_ukusom_sira.jpg",
+  "category": "grickalice",
+  "subcategory": "flips",
+  "availableQuantity": 542,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično brašno, glukozni sirup, biljno ulje (suncokretovo), biljna mast(palmina, shea), humektant: glicerol, sredstvo za želiranje: pektin, kukuruzni skrob, sredstvo za dizanje testa: dinatrijum- difosfat, natrijum- hidrogenkarbonat, amonijum- hidrogenkarbonat, limunska kiselina, regulator kiselosti: trinatrijum citrat, voćni sok od pomorandže (0.8%), konzervans: kalijum sorbat, emulgator: sojin licitin, E476, prirodna aroma pomorandže. Čokolada sadrži: min 46% ukupne suve materije kakao- delova. Čokolada sadrži biljnu mast dodatak kakao-maslacu.",
+    "manufacturer": "MARBO PRODUCT DOO",
+    "brand": "Marbo product",
+    "briefDescription": "Flips sa ukusom sira."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd51"
+  },
+  "id": 13,
+  "name": "Clipsy kikiriki flips",
+  "price": 38,
+  "photo": "http://localhost:4000/images/clipsy_kikiriki_flips.jpg",
+  "category": "grickalice",
+  "subcategory": "flips",
+  "availableQuantity": 84,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "38g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično brašno, glukozni sirup, biljno ulje (suncokretovo), biljna mast(palmina, shea), humektant: glicerol, sredstvo za želiranje: pektin, kukuruzni skrob, sredstvo za dizanje testa: dinatrijum- difosfat, natrijum- hidrogenkarbonat, amonijum- hidrogenkarbonat, limunska kiselina, regulator kiselosti: trinatrijum citrat, voćni sok od pomorandže (0.8%), konzervans: kalijum sorbat, emulgator: sojin licitin, E476, prirodna aroma pomorandže. Čokolada sadrži: min 46% ukupne suve materije kakao- delova. Čokolada sadrži biljnu mast dodatak kakao-maslacu.",
+    "manufacturer": "MARBO PRODUCT DOO",
+    "brand": "Marbo product",
+    "briefDescription": "Poznati ukus flipsa sa kikirikijem."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd52"
+  },
+  "id": 14,
+  "name": "Flips Gricko",
+  "price": 39,
+  "photo": "http://localhost:4000/images/flips_gricko.jpg",
+  "category": "grickalice",
+  "subcategory": "flips",
+  "availableQuantity": 64,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "40g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično brašno, biljno ulje (suncokretovo), biljna mast(palmina, shea), humektant: glicerol, sredstvo za želiranje: pektin, kukuruzni skrob, sredstvo za dizanje testa: dinatrijum- difosfat, natrijum- hidrogenkarbonat, amonijum- hidrogenkarbonat, limunska kiselina, regulator kiselosti: trinatrijum citrat, voćni sok od pomorandže (0.8%), konzervans: kalijum sorbat, emulgator: sojin licitin, E476, prirodna aroma pomorandže. Čokolada sadrži: min 46% ukupne suve materije kakao- delova. Čokolada sadrži biljnu mast dodatak kakao-maslacu.",
+    "manufacturer": "CHIPS WAY DOO",
+    "brand": "Chips way",
+    "briefDescription": "Poznati ukus flipsa sa kikirikijem."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd53"
+  },
+  "id": 15,
+  "name": "Jumbo kokice",
+  "price": 104,
+  "photo": "http://localhost:4000/images/jumbo_kokice.jpg",
+  "category": "grickalice",
+  "subcategory": "kokice",
+  "availableQuantity": 404,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Kukuruz kokičar 87,5%, palmina mast, so (max 3,5%), antioksidant: ekstrakt ruzmarinovog ulja.",
+    "manufacturer": "The Fun&Fit Company d.o.o., Batajnički put 12, 11080 Zemun",
+    "brand": "The Fun&Fit Company",
+    "briefDescription": "Kokice mogu da sadržati tragove soje, mleka, slačice i celera."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd54"
+  },
+  "id": 16,
+  "name": "Prolom voda",
+  "price": 75,
+  "photo": "http://localhost:4000/images/prolom_voda.jpg",
+  "category": "napici",
+  "subcategory": "voda",
+  "availableQuantity": 2242,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1,5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Kalcijum :< 3,00 mg/l , Magnezijum :< 0,10 mg/l , Natrijum: 47,8 mg/l , Kalijum : < 0,50 mg/l, Gvozdje (Fe): 0,12 mg/l, Hidrokarbonati: 72,60 mg/l, Sulfati (SO4):3 mg/l, Hloridi( CL: 2 mg/l, Flouridi(F): 0,12 mg/l.",
+    "manufacturer": "AD PLANINKA, Kosovska 44, Kursumlija ,Srbija",
+    "brand": "Planika",
+    "briefDescription": "Prirodna mineralna voda sa niskim sadrzajem rastvorljivih minerlanih materija, saniskim sadrzajem natrijuma."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd55"
+  },
+  "id": 17,
+  "name": "Knjaz Miloš mineralna voda",
+  "price": 56,
+  "photo": "http://localhost:4000/images/knjaz_milos_mineralna_voda.jpg",
+  "category": "napici",
+  "subcategory": "voda",
+  "availableQuantity": 3921,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1,5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "247,3 mg/l, (Ca): 114,1 mg/l, (Mg): 60,5 mg/l, (K); 18,4 mg/l,(FE): <0,05 mg/l, (HCO3-hidrogenkarbonati),:1208 mg/l, Silikat( SLO2): 42,5 mg/l, Hloridi(CL): 13,1 mg/l, Sulfati (S04): 10,4 mg/l, Flouridi( F): 1,3 mg/l.Suvi ostatak na 180 C- 1066.",
+    "manufacturer": "Knjaz Milos a.d, Juzna industriska zona bb, 34300 Arandjelovac, Republika Srbija",
+    "brand": "Knjaz Miloš",
+    "briefDescription": "Gazirana prirodna mineralana voda."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd56"
+  },
+  "id": 18,
+  "name": "Rosa negazirana voda",
+  "price": 49,
+  "photo": "http://localhost:4000/images/rosa.jpg",
+  "category": "napici",
+  "subcategory": "voda",
+  "availableQuantity": 3291,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "0,5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Kalcijum : 9,6 mg/l , Magnezijum :0,9 mg/l , Natrijum: 2,7 mg/l , Kalijum : < 0,1 mg/l, Bikarbonati: 42,7 mg/l, Nitrati: 1,2 mg/l, Sulfata:5,5 mg/l , Hlorida: <.0,1 mg/l, Silikati: 13,6 mg/l.",
+    "manufacturer": "Vlasinka d.o., Beograd-Zemun, Batajnicki drum14-16, Republika Srbija",
+    "brand": "Vlasinka",
+    "briefDescription": "Prirodna izvorska voda, negazirana-izvoriste Vlasina-Topli do, Republika Srbija."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd57"
+  },
+  "id": 19,
+  "name": "Aqua viva negazirana voda",
+  "price": 79,
+  "photo": "http://localhost:4000/images/aqua_viva.jpg",
+  "category": "napici",
+  "subcategory": "voda",
+  "availableQuantity": 998,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "2,5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Kalcijum :< 3,00 mg/l , Magnezijum :< 0,10 mg/l , Natrijum: 47,8 mg/l , Kalijum : < 0,50 mg/l, Gvozdje (Fe): 0,12 mg/l, Hidrokarbonati: 72,60 mg/l, Sulfati (SO4):3 mg/l, Hloridi( CL: 2 mg/l, Flouridi(F): 0,12 mg/l.",
+    "manufacturer": "Knjaz Miloš a.d, Južna industrijska zona bb, 34300 Aranđelovac",
+    "brand": "Knjaz Miloš",
+    "briefDescription": "Negazirana prirodna mineralna voda sa niskim sadržajem rastvorljivih materija i sa niskim sadržajem natrijuma."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd58"
+  },
+  "id": 20,
+  "name": "Coca Cola",
+  "price": 120,
+  "photo": "http://localhost:4000/images/coca_cola.jpg",
+  "category": "napici",
+  "subcategory": "sok",
+  "availableQuantity": 3928,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1,5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Voda, visoko fruktozni sirup, šećer, ugljen-dioksid (min.2g/l), boja: E 150d, kiselina: fosforna kiselina, prirodne arome uključujući i kofein.",
+    "manufacturer": "Coca-Cola HBC-Srbija d.o.o Zemun, Batajnički drum 14-16, 11080 Beograd, Republika Srbija",
+    "brand": "Coca-Cola",
+    "briefDescription": "Osvežavajuće bezalkoholno piće."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd59"
+  },
+  "id": 21,
+  "name": "Life Premium 100% pomorandža",
+  "price": 179,
+  "photo": "http://localhost:4000/images/life_premium_narandza.jpg",
+  "category": "napici",
+  "subcategory": "sok",
+  "availableQuantity": 983,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Sok pomorandze iz koncetrisanog vocnog soka.",
+    "manufacturer": "NECTAR D.O.O, Novosadski put 19, 21400 Backa Palanka, Srbija",
+    "brand": "Nectar",
+    "briefDescription": "Mutni vocni nektar od pomorandze. Poizveden od koncetrisanog vocnog soka pomorandze."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd5a"
+  },
+  "id": 22,
+  "name": "Life Premium 100% jabuka",
+  "price": 179,
+  "photo": "http://localhost:4000/images/life_premium_jabuka.jpg",
+  "category": "napici",
+  "subcategory": "sok",
+  "availableQuantity": 542,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Sok jabuke iz koncetrisanog vocnog soka.",
+    "manufacturer": "NECTAR D.O.O, Novosadski put 19, 21400 Backa Palanka, Srbija",
+    "brand": "Nectar",
+    "briefDescription": "Mutni vocni nektar od jabuke. Poizveden od koncetrisanog vocnog soka jabuke."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd5b"
+  },
+  "id": 23,
+  "name": "Cedevita napitak narandža",
+  "price": 94,
+  "photo": "http://localhost:4000/images/cedevita_narandza.jpg",
+  "category": "napici",
+  "subcategory": "sok",
+  "availableQuantity": 102,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "340ml",
+    "countryOfOrigin": "Hrvatska",
+    "ingredients": "E124, E421, E982, voda.",
+    "manufacturer": "Cedevita",
+    "brand": "Cedevita",
+    "briefDescription": "Cedevita od narandže."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd5c"
+  },
+  "id": 24,
+  "name": "Cockta",
+  "price": 125,
+  "photo": "http://localhost:4000/images/cockta.jpg",
+  "category": "napici",
+  "subcategory": "sok",
+  "availableQuantity": 532,
+  "onSale": true,
+  "discount": 12,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Slovenija",
+    "ingredients": "E124, E421, E982, voda.",
+    "manufacturer": "KOLINSKA-PALANAČKI KISELJAK",
+    "brand": "Cockta",
+    "briefDescription": "Osvežavajući bezalkoholni sok."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd5d"
+  },
+  "id": 25,
+  "name": "Remix sok pomorandža",
+  "price": 135,
+  "photo": "http://localhost:4000/images/remix_pomorandza.jpg",
+  "category": "napici",
+  "subcategory": "sok",
+  "availableQuantity": 518,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1,5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "E124, E421, E982, voda.",
+    "manufacturer": "KNJAZ MILOS",
+    "brand": "Knjaz Miloš",
+    "briefDescription": "Osvežavajući bezalkoholni sok."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd5e"
+  },
+  "id": 26,
+  "name": "Life premium borovnica",
+  "price": 245,
+  "photo": "http://localhost:4000/images/life_premium_borovnica.jpg",
+  "category": "napici",
+  "subcategory": "sok",
+  "availableQuantity": 42,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Slovenija",
+    "ingredients": "Voda, sok borovnice iz koncentrisanog voćnog soka (25.5%), sok aronije iz koncentrisanog voćnog soka (24.5%), glukozno-fruktozni sirup, šećer, limunska kiselina.",
+    "manufacturer": "Fructal d.o.o, Tovarnička cesta 7, 5270 Ajdovščina, Slovenija",
+    "brand": "Fructal",
+    "briefDescription": "Bistri voćni nektar od borovnice i aronije. Proizveden od koncentrisanog voćnog soka borovnice i aronije."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd5f"
+  },
+  "id": 27,
+  "name": "Vranac pro corde crveno vino",
+  "price": 599,
+  "photo": "http://localhost:4000/images/vranac_pro_corde.jpg",
+  "category": "napici",
+  "subcategory": "vino",
+  "availableQuantity": 20,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "750ml",
+    "countryOfOrigin": "Crna Gora",
+    "ingredients": "Alk. 14% vol. Sadrži sulfite.",
+    "manufacturer": "13 JUL -Plantaže A.D., Ul. Put Radomira Ivanovića 2, 81000, Podgorica",
+    "brand": "Plantaže",
+    "briefDescription": "Vranac pro corde je jedinstveno vino u tehnološkom postupku proizvodnje, kojim se prirodnim putem postiže veći sadržaj proantocijanidola i tanina. Razvijena voćna aroma borovnice, trešnje, sa završnicom crne čokolade, daje pečat njegovom mediteranskom karakteru. Temperatura serviranja je 18- 20°C."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd60"
+  },
+  "id": 28,
+  "name": "Ždrepčeva krv poluslatko crveno vino",
+  "price": 279,
+  "photo": "http://localhost:4000/images/zdrepceva_krv_poluslatko_crveno.jpg",
+  "category": "napici",
+  "subcategory": "vino",
+  "availableQuantity": 15,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Alk. 11% vol. Sadrži sulfite.",
+    "manufacturer": "Vinarija Čoka Plus d.o.o., Korzo 10/b, 24000 Subotica",
+    "brand": "Vinarija Čoka",
+    "briefDescription": "Poluslatko crveno vino iz Srbije. Sadrži sulfite."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd61"
+  },
+  "id": 29,
+  "name": "Tikveš Smederevka belo vino",
+  "price": 299,
+  "photo": "http://localhost:4000/images/smederevka_belo_vino.jpg",
+  "category": "napici",
+  "subcategory": "vino",
+  "availableQuantity": 84,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Makedonija",
+    "ingredients": "Alk. 10,5% vol. Sadrži sulfite.",
+    "manufacturer": "Vinarska vizba Tikveš AD Skopje, ul. 810br.2,1000 Skopje, 29 Noemvri br.5 ,1430 Kavardaci",
+    "brand": "Tikveš",
+    "briefDescription": "Stono suvo belo vino proizvedeno od sorte grožđa smederevka. Odlikuje se svetložutom bojom, prijatnim mirisom i osvežavajućim ukusom.Preporučujemo ga uz salate, piletinu i ribu. Temperatura serviranja je od 10 do 12°C."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd62"
+  },
+  "id": 30,
+  "name": "Kovačević Chardonnay belo vino",
+  "price": 1369,
+  "photo": "http://localhost:4000/images/kovacevic_belo_vino.jpg",
+  "category": "napici",
+  "subcategory": "vino",
+  "availableQuantity": 245,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "0,75l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Alk. 13,5% vol. Sadrži sulfite.",
+    "manufacturer": "Vinarija Kovačević d.o.o., 22406 Irig, Đoke Šundukovića 85",
+    "brand": "Vinarija Kovačević",
+    "briefDescription": "Suvo belo vino proizvedeno u Srbiji. Berba 2015. Sadrži sulfite."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd63"
+  },
+  "id": 31,
+  "name": "Barbara polusuvo rose vino",
+  "price": 699,
+  "photo": "http://localhost:4000/images/barbara_polusuvo_rose_vino.jpg",
+  "category": "napici",
+  "subcategory": "vino",
+  "availableQuantity": 12,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "0,75l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Alk. 13,5% vol. Sadrži sulfite.",
+    "manufacturer": "Vinarija Aleksić d.o.o., Industrijski blok 9/1, 17500 Vranje",
+    "brand": "Vinarija Aleksić",
+    "briefDescription": "Barbara je boje zalaska letnjeg sunca. Barbara je mirisa jutarnje rose u bašti punoj cveća. Barbara je miris prve simpatije i podeljene karamele sa ukusom jagode. Barbara je sećanje. Leptirići u stomaku. Barbara je ono sto svima nedostaje."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd64"
+  },
+  "id": 32,
+  "name": "Doja rose vino",
+  "price": 699,
+  "photo": "http://localhost:4000/images/doja_roze.jpg",
+  "category": "napici",
+  "subcategory": "vino",
+  "availableQuantity": 32,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "0,75l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Alk. 13,5% vol. Sadrži sulfite.",
+    "manufacturer": "Tody d.o.o. Blace, Donja Jošanica bb, 18420 Blace, Srbija",
+    "brand": "Tody",
+    "briefDescription": "Napravljeno od sorte Prokupac. Slaže se uz topla i hladna predjela kao i uz specijalitete srpske i internacionalne kuhinje. Temperatura serviranja 10-12 °C. Berba 2014."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd65"
+  },
+  "id": 33,
+  "name": "Zvonko Bogdan vino rose 4 konja debela",
+  "price": 999,
+  "photo": "http://localhost:4000/images/4_konja_debela.jpg",
+  "category": "napici",
+  "subcategory": "vino",
+  "availableQuantity": 51,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "0,75l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Alk. 13,5% vol. Sadrži sulfite.",
+    "manufacturer": "Vinarija Zvonko Bogdan DOO, Tuk Ugarnice bb, 2400 Subotica",
+    "brand": "Vinarija Zvonko Bogdan",
+    "briefDescription": "Vino odlikuje nežna ružičasta boja i očaravajuća svežina sa prefinjenim aromama jagode i maline koje nadopunjuju diskretni tonovi narandžine kore. Kremasta struktura i prijatna slast u završnici zaokružuju eleganciju vina. Preporučujemo ga dobro rashlađenog na temperaturi od 8C. Berba 2015."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd66"
+  },
+  "id": 34,
+  "name": "Grand kafa gold",
+  "price": 369,
+  "photo": "http://localhost:4000/images/grand_kafa.jpg",
+  "category": "napici",
+  "subcategory": "kafa",
+  "availableQuantity": 4332,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "200g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Kafa arabika i kafa robusta.",
+    "manufacturer": "Grand Prom d.o.o, Surčinska 6a, 11070 Novi Beograd, Srbija",
+    "brand": "Grand",
+    "briefDescription": "Mešavina pržene mlevene kafe."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd67"
+  },
+  "id": 35,
+  "name": "Nescafe instant classic",
+  "price": 709,
+  "photo": "http://localhost:4000/images/neskafa.jpg",
+  "category": "napici",
+  "subcategory": "kafa",
+  "availableQuantity": 421,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "200g",
+    "countryOfOrigin": "Brazil",
+    "ingredients": "Kafa arabika i kafa robusta.",
+    "manufacturer": "NESTLE BRASIL LTDA, Av Zurita, 929-Araras-SP-CNPJ MF 60.409.075/0006-67, Brazil",
+    "brand": "Nestle",
+    "briefDescription": "Nepogrešiv ukus i aroma koju svi prepoznajemo i volimo. Naša kafa ima pažljivo izabrana i pripremljena srednje tamna zrna koja daju kafi nezaboravan ukus. Započnite dan uz NESCAFÉ Classic - intezivan ukus i miris kafe će probuditi sva vaša čula. - Nepogrešiv ukus, - Bogata aroma, - Napravljen od zrna Robusta kafe, prženih do srednje tamne nijanse."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd68"
+  },
+  "id": 36,
+  "name": "Doncafe moment kafa",
+  "price": 279,
+  "photo": "http://localhost:4000/images/doncafe.jpg",
+  "category": "napici",
+  "subcategory": "kafa",
+  "availableQuantity": 325,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "200g",
+    "countryOfOrigin": "Brazil",
+    "ingredients": "Kafa arabika i kafa robusta.",
+    "manufacturer": "STRAUSS ADRIATIC",
+    "brand": "Strauss adriatic",
+    "briefDescription": "Mešavina pržene i mlevene kafe. Uvođenjem jedinstvenog Aroma Expert sistema proizvodnje, omogućili smo da bogatstvo aroma kafe bude potpuno očuvano od prženja do trenutka kada otvorite ovu kesicu i osetite neodoljivi miris naše kafe."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd69"
+  },
+  "id": 37,
+  "name": "Čaj nana",
+  "price": 74,
+  "photo": "http://localhost:4000/images/caj_nana.jpg",
+  "category": "napici",
+  "subcategory": "caj",
+  "availableQuantity": 6123,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "20g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Listovi nane.",
+    "manufacturer": "Fructus d.o.o., Novosadski put 15/2, 21400 Bačka Palanka, Srbija",
+    "brand": "Fructus",
+    "briefDescription": "Biljni čaj od lista nane."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd6a"
+  },
+  "id": 38,
+  "name": "Čaj kamilica",
+  "price": 314,
+  "photo": "http://localhost:4000/images/caj_kamilica.jpg",
+  "category": "napici",
+  "subcategory": "caj",
+  "availableQuantity": 2121,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "36g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "TEEKANNE",
+    "brand": "Teekanne",
+    "briefDescription": "Biljni čaj od lista kamilice."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd6b"
+  },
+  "id": 39,
+  "name": "Rtanjski čaj",
+  "price": 74,
+  "photo": "http://localhost:4000/images/rtanjski_caj.jpg",
+  "category": "napici",
+  "subcategory": "caj",
+  "availableQuantity": 898,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "20g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Herba Vrijeska (Rtanjski caj) 97%, Herba Majcine dušice 3%.",
+    "manufacturer": "Macval Tea d.o.o.,, Narodnog fronta br. 57, 21000 Novi Sad",
+    "brand": "Macval",
+    "briefDescription": "Rtanjski čaj."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd6c"
+  },
+  "id": 40,
+  "name": "Čaj hibiskus",
+  "price": 109,
+  "photo": "http://localhost:4000/images/caj_hibiskus.jpg",
+  "category": "napici",
+  "subcategory": "caj",
+  "availableQuantity": 153,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "30g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "Fructus d.o.o., Novosadski put 15/2, 21400 Bačka Palanka, Srbija",
+    "brand": "Fructus",
+    "briefDescription": "Biljni čaj od cveta hibiskusa."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd6d"
+  },
+  "id": 41,
+  "name": "Banana",
+  "price": 199,
+  "photo": "http://localhost:4000/images/banana.jpg",
+  "category": "voce_povrce",
+  "subcategory": "voce",
+  "availableQuantity": 5321,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Ekvador",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Banana"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd6e"
+  },
+  "id": 42,
+  "name": "Jabuka zlatni delišes",
+  "price": 119,
+  "photo": "http://localhost:4000/images/jabuka.jpg",
+  "category": "voce_povrce",
+  "subcategory": "voce",
+  "availableQuantity": 9881,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Jabuka"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd6f"
+  },
+  "id": 43,
+  "name": "Limun",
+  "price": 289,
+  "photo": "http://localhost:4000/images/limun.jpg",
+  "category": "voce_povrce",
+  "subcategory": "voce",
+  "availableQuantity": 5321,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Grčka",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Limun"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd70"
+  },
+  "id": 44,
+  "name": "Mandarina",
+  "price": 179,
+  "photo": "http://localhost:4000/images/mandarina.jpg",
+  "category": "voce_povrce",
+  "subcategory": "voce",
+  "availableQuantity": 745,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Turska",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Mandarina"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd71"
+  },
+  "id": 45,
+  "name": "Kruska",
+  "price": 199,
+  "photo": "http://localhost:4000/images/kruska.jpg",
+  "category": "voce_povrce",
+  "subcategory": "voce",
+  "availableQuantity": 3254,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Kruska"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd72"
+  },
+  "id": 46,
+  "name": "Šargarepa",
+  "price": 69,
+  "photo": "http://localhost:4000/images/sargarepa.jpg",
+  "category": "voce_povrce",
+  "subcategory": "povrce",
+  "availableQuantity": 853,
+  "onSale": true,
+  "discount": 28,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Šargarepa domaća."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd73"
+  },
+  "id": 47,
+  "name": "Paradajz",
+  "price": 69,
+  "photo": "http://localhost:4000/images/paradajz.jpg",
+  "category": "voce_povrce",
+  "subcategory": "povrce",
+  "availableQuantity": 1215,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Paradajz domaći."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd74"
+  },
+  "id": 48,
+  "name": "Krompir crveni",
+  "price": 99,
+  "photo": "http://localhost:4000/images/krompir_crveni.jpg",
+  "category": "voce_povrce",
+  "subcategory": "povrce",
+  "availableQuantity": 4321,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "MERCATOR-S DOO-BEOGR",
+    "brand": "Mercator",
+    "briefDescription": "Krompir crveni domaći."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd75"
+  },
+  "id": 49,
+  "name": "Zlatiborac slanina",
+  "price": 369,
+  "photo": "http://localhost:4000/images/zlatiborac_slanina.jpg",
+  "category": "meso",
+  "subcategory": "suhomesnato",
+  "availableQuantity": 341,
+  "onSale": true,
+  "discount": 21,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Masno i misicno tkivo od svinje, kuhinjska so, konzervans E 250.",
+    "manufacturer": "Zlatiborac d.o.o., Mojkovacka 58, Beograd,PJ Klanica Zlatiborac Mačkat Republika Srbija",
+    "brand": "Zlatiborac",
+    "briefDescription": "Zlatiborac tanka slanina."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd76"
+  },
+  "id": 50,
+  "name": "Topola kulen",
+  "price": 269,
+  "photo": "http://localhost:4000/images/topola_kulen.jpg",
+  "category": "meso",
+  "subcategory": "suhomesnato",
+  "availableQuantity": 231,
+  "onSale": true,
+  "discount": 25,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Svinjsko meso, cvrsto masno tkivo, kuhinjska so, zacini, regulator kiselosti ( E575), secer, antioksidans ( E 300), konzervans ( E 250 i E 251).Sadrzaj proteina mesa min. 22 %.",
+    "manufacturer": "IM TOPLA D.O.O., Backa Topola, Marsala Tita br.3, Republika Srbija",
+    "brand": "IM Topla",
+    "briefDescription": "Fermentisana suva kobasica. Bez alergena i glutena."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd77"
+  },
+  "id": 51,
+  "name": "Suvi vrat",
+  "price": 369,
+  "photo": "http://localhost:4000/images/suvi_vrat.jpg",
+  "category": "meso",
+  "subcategory": "suhomesnato",
+  "availableQuantity": 74,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Crna Gora",
+    "ingredients": "Masno i misicno tkivo od vrata svinje, kuhinjska so, konzervans E 250.",
+    "manufacturer": "MESOPROMET DOO, Crna Gora",
+    "brand": "Mesopromet",
+    "briefDescription": "Svinjski suvi vrat."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd78"
+  },
+  "id": 52,
+  "name": "Pršut primorac",
+  "price": 599,
+  "photo": "http://localhost:4000/images/prsut_primorac.jpg",
+  "category": "meso",
+  "subcategory": "suhomesnato",
+  "availableQuantity": 12,
+  "onSale": true,
+  "discount": 15,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Slovenija",
+    "ingredients": "Svinjski but, kuhinjska morska so.",
+    "manufacturer": "Prsutarna Lokev na Krasu d.o.o., Lokev 9, 6219 Lokev, Slovenija",
+    "brand": "Prsutarna Lokev",
+    "briefDescription": "Suvomesnati proizvod."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd79"
+  },
+  "id": 53,
+  "name": "Carnex meso viršla",
+  "price": 189,
+  "photo": "http://localhost:4000/images/carnex_virsla.jpg",
+  "category": "meso",
+  "subcategory": "virsle",
+  "availableQuantity": 51,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "205g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Voda, svinjsko meso 24%, masno tkivo, goveđe meso 14%, belančevinasti proizvodi od soje, svinjske kožice u prahu, modifikovani krompirov skrob, kuhinjska so, stabilizatori E412, E450, E451, E452, vlakna graška, regulator kiselosti E262, začini i ekstrakti začina, šećer, antioksidans: E300, belančevinasti proizvodi od krvi, konzervans E250.",
+    "manufacturer": "CARNEX d.o.o. Industrija mesa, Ul. Kulski put 26, Vrbas",
+    "brand": "Carnex",
+    "briefDescription": "Fino usitnjena barena kobasca."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd7a"
+  },
+  "id": 54,
+  "name": "Famis viršla",
+  "price": 279,
+  "photo": "http://localhost:4000/images/famis_virsla.jpg",
+  "category": "meso",
+  "subcategory": "virsle",
+  "availableQuantity": 64,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "220g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Svinjsko meso, masno tkivo, vezivno tkivo, voda, skrob, kuhinjska so, emulgator: E450, začini, šećer, regulator kiselosti: E262, ekstrakti začina, stabilizator: E415, E401, brašno pirinča, belančevine graška, pojačivač arome: E621, anitoksidans: E300, konzervans: E250, boja: E120 u jestivom omotaču.",
+    "manufacturer": "FAMIS Co d.o.o., Zemun 11080, Auto put 22F",
+    "brand": "Famis",
+    "briefDescription": "Fino usitnjena barena kobasca."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd7b"
+  },
+  "id": 55,
+  "name": "Mleko Imlek 2,8%mm",
+  "price": 149,
+  "photo": "http://localhost:4000/images/mleko_imlek.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "mleko",
+  "availableQuantity": 3121,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "IMLEK AD",
+    "brand": "Imlek",
+    "briefDescription": "Pasterizovano mleko u tetrapaku."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd7c"
+  },
+  "id": 56,
+  "name": "Mleko Alpsko 3,5%mm",
+  "price": 189,
+  "photo": "http://localhost:4000/images/mleko_alpsko.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "mleko",
+  "availableQuantity": 1251,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1l",
+    "countryOfOrigin": "Slovenija",
+    "ingredients": "",
+    "manufacturer": "LJUBLJANSKE MLEKARNE",
+    "brand": "Ljubljanske mlekarne",
+    "briefDescription": "Pasterizovano mleko u tetrapaku."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd7d"
+  },
+  "id": 57,
+  "name": "Mleko Dukat 2,8%mm",
+  "price": 224,
+  "photo": "http://localhost:4000/images/mleko_dukat.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "mleko",
+  "availableQuantity": 896,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1.5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pasterizovano, homogenizovano mleko sa 2.8% m.m.",
+    "manufacturer": "Somboled d.o.o, Gakovački put bb, Sombor, Srbija",
+    "brand": "Somboled",
+    "briefDescription": "Sveže mleko sa 2.8%m.m."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd7e"
+  },
+  "id": 58,
+  "name": "Jogurt Balans",
+  "price": 179,
+  "photo": "http://localhost:4000/images/jogurt_balans.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "jogurt",
+  "availableQuantity": 452,
+  "onSale": true,
+  "discount": 11,
+  "description": {
+    "weight": "1kg",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "IMLEK AD",
+    "brand": "Imlek",
+    "briefDescription": "Zdrav jogurt."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd7f"
+  },
+  "id": 59,
+  "name": "Jogurt Dukat 3,2%mm",
+  "price": 249,
+  "photo": "http://localhost:4000/images/jogurt_dukat.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "jogurt",
+  "availableQuantity": 421,
+  "onSale": true,
+  "discount": 20,
+  "description": {
+    "weight": "1.5l",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Jogurt od pasterizovanog mleka sa 3.2%m.m",
+    "manufacturer": "Somboled d.o.o, Gakovački put bb, Sombor, Srbija",
+    "brand": "Somboled",
+    "briefDescription": "Jogurt 3.2%m.m"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd80"
+  },
+  "id": 60,
+  "name": "Moja kravica pavlaka 20%mm",
+  "price": 189,
+  "photo": "http://localhost:4000/images/pavlaka_kravica.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "pavlaka",
+  "availableQuantity": 1241,
+  "onSale": true,
+  "discount": 15,
+  "description": {
+    "weight": "400g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "IMLEK AD",
+    "brand": "Imlek",
+    "briefDescription": "Pavlaka"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd81"
+  },
+  "id": 61,
+  "name": "Suborički mileram 22%mm",
+  "price": 227,
+  "photo": "http://localhost:4000/images/suboticki_mileram.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "pavlaka",
+  "availableQuantity": 421,
+  "onSale": true,
+  "discount": 18,
+  "description": {
+    "weight": "400g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Fermentisana pavlaka sa jogurtnom kulturom sa 22%m.m.",
+    "manufacturer": "Mlekara Subotica",
+    "brand": "Mlekara Subotica",
+    "briefDescription": "Zdravo! Subotički mileram. Prirodno bez glutena. Fermentisana pavlaka sa jogurtnom kulturom sa 22%m.m."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd82"
+  },
+  "id": 62,
+  "name": "Sir President",
+  "price": 484,
+  "photo": "http://localhost:4000/images/sir_president.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "sir",
+  "availableQuantity": 153,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "500g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "SOMBOLED DOO",
+    "brand": "Somboled",
+    "briefDescription": "Feta sir Somborska."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd83"
+  },
+  "id": 63,
+  "name": "Sir Grekos",
+  "price": 469,
+  "photo": "http://localhost:4000/images/sir_grekos.jpg",
+  "category": "mlecni_proizvodi",
+  "subcategory": "sir",
+  "availableQuantity": 4521,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "500g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pasterizovano mleko, kuhinjska so, ucvrscivac kalcijum hlorid, sirarska kultura, sirilo mikrobioloskog porekla.",
+    "manufacturer": "A.D IMLEK, Padinska Skela, Industrisko naselje bb, 11213 Padinska Skela, Republika Srbija",
+    "brand": "Imlek",
+    "briefDescription": "Punomasni meki sir u salamuri sa najmanje 45 % mlecne masti u suvoj materiji."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd84"
+  },
+  "id": 64,
+  "name": "Ariel deterdžent",
+  "price": 909,
+  "photo": "http://localhost:4000/images/ariel.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "kucna_hemija",
+  "availableQuantity": 215,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "2kg",
+    "countryOfOrigin": "Švajcarska",
+    "ingredients": "5-15% anjonski surfaktanti, izbeljivači na bazi kiseonika; <5% nejonski surfaktanti, fosfonati, polikarboksilati, zeoliti; enzimi, optička belila, mirisi",
+    "manufacturer": "Procter & Gamble International Operations SA, 47 route de Saint-Georges, 1213 Petit-Lancy, Švajcarska",
+    "brand": "Ariel",
+    "briefDescription": "Deterdžent za pranje veša."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd85"
+  },
+  "id": 65,
+  "name": "Mer balsam za sudove",
+  "price": 239,
+  "photo": "http://localhost:4000/images/mer_balsam.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "kucna_hemija",
+  "availableQuantity": 632,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "450ml",
+    "countryOfOrigin": "Austrija",
+    "ingredients": "5-15% anjonski surfaktanti; <5% amfoterni surfaktanti; sadrži konzervans (Benzisothiazolinone, Methylisothiazolinone), miris",
+    "manufacturer": "Henkel Central Eastern Europe Operations GmbH, Erdbergstraße 29, A-1030 Vienna",
+    "brand": "Henkel",
+    "briefDescription": "Deterdžent za ručno pranje posuđa."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd86"
+  },
+  "id": 66,
+  "name": "Domestos tečnost za čišćenje",
+  "price": 249,
+  "photo": "http://localhost:4000/images/domestos.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "kucna_hemija",
+  "availableQuantity": 5311,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "750ml",
+    "countryOfOrigin": "Madjarska",
+    "ingredients": "Natrijum hipohlorit-dezificines (<5 %), izbeljivaci na bazi hlora (natrijum hipohlorid ), (<5 %) nejonski surfaktant, (<5 %), katjonski surfaktant ( <5 %), sapun, miris.Podaci iz liste o sastavu deterdzenta.",
+    "manufacturer": "Unilever Magyarorszag kft. , 1138 Budimpesta, Madjarska",
+    "brand": "Domestos",
+    "briefDescription": "Domestos 24 h Plus pine fresh, ubija sve poznate bakterije."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd87"
+  },
+  "id": 67,
+  "name": "Cif sredstvo za čišćenje",
+  "price": 249,
+  "photo": "http://localhost:4000/images/cif.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "kucna_hemija",
+  "availableQuantity": 521,
+  "onSale": true,
+  "discount": 16,
+  "description": {
+    "weight": "500ml",
+    "countryOfOrigin": "Mađarska",
+    "ingredients": "5-15% anjonski surfaktanti, <5% nejonski surfarkanti, sapun, parfem, Limonene, Benzisothiazolinone, Geraniol",
+    "manufacturer": "Unilever Magyarorszag Kft Home& Personal Care Factory Nyirbator, H-4333 Nyirbator Tancsis Mihaly u. 2-4 Mađarska",
+    "brand": "Cif",
+    "briefDescription": "Cif krem sredstvo za čišćenje čisti i ono što ste misli da nikad nećete očistiti."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd88"
+  },
+  "id": 68,
+  "name": "Nivea gel za brijanje",
+  "price": 615,
+  "photo": "http://localhost:4000/images/nivea_gel_za_brijanje.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "higijena",
+  "availableQuantity": 421,
+  "onSale": true,
+  "discount": 26,
+  "description": {
+    "weight": "200ml",
+    "countryOfOrigin": "Nemačka",
+    "ingredients": "Aqua, TEA-Palmitate, Oleth-20, Isopentane, Glycerin, Isopropyl Palmitate, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Hydroxyethylcellulose, Hydroxypropyl Methylcellulose, Laureth-2, PEG-90 Glyceryl Isostearate, Polyisobutene, Isobutane, Piroctone Olamine, BHT, Linalool, Parfum",
+    "manufacturer": "BEIERSDORF DOO",
+    "brand": "Nivea",
+    "briefDescription": "NIVEA MEN Sensitive gel za brijanje za osetljivu kožu sadrži 0% alkohola i ne izaziva osećaj peckanja."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd89"
+  },
+  "id": 69,
+  "name": "Perfex toaletni papir",
+  "price": 699,
+  "photo": "http://localhost:4000/images/perfex_toaletni_papir.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "higijena",
+  "availableQuantity": 4231,
+  "onSale": true,
+  "discount": 21,
+  "description": {
+    "weight": "24kom",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "Drenik ND d.o.o, Deligradska 19, Beograd, Srbija",
+    "brand": "Perfex",
+    "briefDescription": "Toaletni papir."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd8a"
+  },
+  "id": 70,
+  "name": "Schauma šampon za suvu i oštećenu kosu",
+  "price": 379,
+  "photo": "http://localhost:4000/images/schauma.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "higijena",
+  "availableQuantity": 351,
+  "onSale": true,
+  "discount": 28,
+  "description": {
+    "weight": "250ml",
+    "countryOfOrigin": "Nemačka",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betanie, Sodium Chloride, Hydrolazed Keratin, Panthenol, Glycine, butyrospermum parkii buter, Cocos Nuciferia Fruit Extract, Disodium Cocoamphodiacetate, Glycol Distearete, Critic Acid, Sodium Benzoate, PEG-7 Glyceryl Cocoate, Cocamide MEA, Dimethicone, Laureth-4, Parfum, PEG-40 Hydrogenated Castor Oil, Guar Hydroxypropyltrimonium Chloride, Hydrogenated Castor Oil, Propylene Glycol, laureth-23, Glycerin, CI 16255, CI 47005.",
+    "manufacturer": "Schwarzkopf & Henkel Production Europe GmbH & Co. KG, Henkelstr. 67, DE-40589 Dusseldorf, Nemačka",
+    "brand": "Schauma",
+    "briefDescription": "Formula sa šea puterom i ektraktom kokosa čini kosu glatkom i neguje strukturu vlasi i čini kosu zdravom."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd8b"
+  },
+  "id": 71,
+  "name": "Colgate pasta za zube",
+  "price": 309,
+  "photo": "http://localhost:4000/images/colgate_pasta.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "higijena",
+  "availableQuantity": 603,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "75ml",
+    "countryOfOrigin": "Poljska",
+    "ingredients": "Sorbitol, Aqua, Hydrated Silica, Sodium Lauryl Sulfate, Aroma, PEG-12, Cellulose Gum, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Hydropropyl Methylcellulose, Menthol, Glycerin, Limonene, Cl 42090, Cl 77891.",
+    "manufacturer": "Colgate- Palmolive",
+    "brand": "Colgate",
+    "briefDescription": "Pasta za zube.Nije namenjeno deci ispod 7 godina."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd8c"
+  },
+  "id": 72,
+  "name": "Nivea krema",
+  "price": 919,
+  "photo": "http://localhost:4000/images/nivea_krema.jpg",
+  "category": "hemija_higijena",
+  "subcategory": "higijena",
+  "availableQuantity": 316,
+  "onSale": true,
+  "discount": 31,
+  "description": {
+    "weight": "400ml",
+    "countryOfOrigin": "Nemačka",
+    "ingredients": "Aqua, Paraffinum Liquidum, Cera Microcristallina, Glycerin, Lanolin Alcohol (Eucerit®), Paraffin, Panthenol, Magnesium Sulfate, Decyl Oleate, Octyldodecanol, Aluminum Stearates, Citric Acid, Magnesium Stearate, Limonene, Geraniol, Hydroxycitronellal, Linalool, Citronellol, Benzyl Benzoate, Cinnamyl Alcohol, Parfum.",
+    "manufacturer": "BEIERSDORF DOO",
+    "brand": "Nivea",
+    "briefDescription": "NIVEA Krema, nenadmašna hidratantna krema za sve tipove kože, za decu i odrasle, za celu porodicu."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd8d"
+  },
+  "id": 73,
+  "name": "Kobasica za pečenje",
+  "price": 369,
+  "photo": "http://localhost:4000/images/kobasica_za_pecenje.png",
+  "category": "meso",
+  "subcategory": "sveze_meso",
+  "availableQuantity": 12,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "450g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Svinjsko meso II kategorije, čvrsto masno tkivo, voda i začinska smeša za kobasice za pečenje (kuhinjska so, beli luk, paprika, biber, antikosidans (E300, E301). Sadržaj proteina mesa min. 14%.",
+    "manufacturer": "ZEMLJOR. ZADRUGA TRLIC",
+    "brand": "Trlić",
+    "briefDescription": "Sveža kobasica."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd8e"
+  },
+  "id": 74,
+  "name": "Pileća krilca",
+  "price": 179,
+  "photo": "http://localhost:4000/images/pileca_krilca.png",
+  "category": "meso",
+  "subcategory": "sveze_meso",
+  "availableQuantity": 99,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "500g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pileća krila 100%",
+    "manufacturer": "SUPERIOR FOODS DOO BACINCI",
+    "brand": "Superior",
+    "briefDescription": "Sveže meso. Pakovano u zaštitnoj atmosferi."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd8f"
+  },
+  "id": 75,
+  "name": "Pileći file",
+  "price": 399,
+  "photo": "http://localhost:4000/images/pileci_file.png",
+  "category": "meso",
+  "subcategory": "sveze_meso",
+  "availableQuantity": 325,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "480g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pileći file 100%",
+    "manufacturer": "SUPERIOR FOODS DOO BACINCI",
+    "brand": "Superior",
+    "briefDescription": "Sveže meso. Pakovano u zaštitnoj atmosferi."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd90"
+  },
+  "id": 76,
+  "name": "T-bone steak",
+  "price": 1609,
+  "photo": "http://localhost:4000/images/t_bone.png",
+  "category": "meso",
+  "subcategory": "sveze_meso",
+  "availableQuantity": 152,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "700g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "MESARA JOKIC TPUR JAKOVO",
+    "brand": "Mesara Jokić",
+    "briefDescription": "Najkvalitetnije parče junećeg mesa."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd91"
+  },
+  "id": 77,
+  "name": "Pileći štapići",
+  "price": 499,
+  "photo": "http://localhost:4000/images/pileci_stapici.png",
+  "category": "meso",
+  "subcategory": "sveze_meso",
+  "availableQuantity": 12,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "450g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pileće meso I kategorije 87%, HLEBNE MRVICE, kuhinjska so, vlakna graška, antioksidansi (E300 i E301),r egulatori kiselosti (E331 i E262), vlakna celuloze (E460), začini. Sadržaj ukupnih proteina najmanje 14%.",
+    "manufacturer": "SUPERIOR FOODS DOO BACINCI",
+    "brand": "Superior",
+    "briefDescription": "Poluproizvod od pilećeg mesa, ohlađeno usitnjeno oblikovano meso."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd92"
+  },
+  "id": 78,
+  "name": "Svinjski vrat",
+  "price": 338,
+  "photo": "http://localhost:4000/images/svinjski_vrat.png",
+  "category": "meso",
+  "subcategory": "sveze_meso",
+  "availableQuantity": 125,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "500g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "ZEMLJOR. ZADRUGA TRLIC",
+    "brand": "Trlić",
+    "briefDescription": "Svinjsko meso II kategorije."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd93"
+  },
+  "id": 79,
+  "name": "Ćevapi",
+  "price": 359,
+  "photo": "http://localhost:4000/images/cevapi.png",
+  "category": "meso",
+  "subcategory": "sveze_meso",
+  "availableQuantity": 125,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "510g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Svinjsko meso II kategorije, juneće meso II kategorije, juneći loj, kuhinjska so i začini. Sadržaj proteina mesa min 14%.",
+    "manufacturer": "ZEMLJOR. ZADRUGA TRLIC",
+    "brand": "Trlić",
+    "briefDescription": "Usitnjeno oblikovano meso."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd94"
+  },
+  "id": 80,
+  "name": "Smrznuti grašak Premia",
+  "price": 79,
+  "photo": "http://localhost:4000/images/grasak_smrznuti.jpg",
+  "category": "smrznuti_proizvodi",
+  "subcategory": "povrce",
+  "availableQuantity": 531,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "450g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Grašak 100%.",
+    "manufacturer": "PIK-BECEJ AD BECEJ",
+    "brand": "Premia",
+    "briefDescription": "Trenutno smrznuto povrće. Smrznuti grašak."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd95"
+  },
+  "id": 81,
+  "name": "Sladoled Quattro",
+  "price": 649,
+  "photo": "http://localhost:4000/images/sladoled_quattro.jpg",
+  "category": "smrznuti_proizvodi",
+  "subcategory": "sladoled",
+  "availableQuantity": 152,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "970g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "FRIKOM DOO FRIKOM DOO",
+    "brand": "Frikom",
+    "briefDescription": "Sladoled 4 ukusa-lešnik, vanika, čokolada, jagoda."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd96"
+  },
+  "id": 82,
+  "name": "Smrznuti pomfrit",
+  "price": 199,
+  "photo": "http://localhost:4000/images/pomfrit.png",
+  "category": "smrznuti_proizvodi",
+  "subcategory": "povrce",
+  "availableQuantity": 612,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "1kg",
+    "countryOfOrigin": "Nemačka",
+    "ingredients": "Krompir 97%, suncokretovo ulje 3%.",
+    "manufacturer": "CLAREBOUT POTATOES",
+    "brand": "Premia",
+    "briefDescription": "Brzo smrznuti proizvod od krompira, delimično prženi."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd97"
+  },
+  "id": 83,
+  "name": "Smrznuti kukuruz",
+  "price": 99,
+  "photo": "http://localhost:4000/images/kukuruz.jpg",
+  "category": "smrznuti_proizvodi",
+  "subcategory": "povrce",
+  "availableQuantity": 951,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "450g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Kukuruz šećerac 100%.",
+    "manufacturer": "PIK-BECEJ AD BECEJ",
+    "brand": "Premia",
+    "briefDescription": "Trenutno smrznuto povrće - kukuruz šećerac."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd98"
+  },
+  "id": 84,
+  "name": "Ben & Jerry karamel sladoled",
+  "price": 720,
+  "photo": "http://localhost:4000/images/karamel_sladoled.png",
+  "category": "smrznuti_proizvodi",
+  "subcategory": "sladoled",
+  "availableQuantity": 161,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "465ml",
+    "countryOfOrigin": "Holandija",
+    "ingredients": "Soja, mleko, jaja.",
+    "manufacturer": "CERMAT DOO",
+    "brand": "Ben & Jerry",
+    "briefDescription": "Sladoled karamela."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd99"
+  },
+  "id": 85,
+  "name": "Hrana za pse",
+  "price": 1399,
+  "photo": "http://localhost:4000/images/hrana_za_pse.png",
+  "category": "kucni_ljubimci",
+  "subcategory": "psi",
+  "availableQuantity": 162,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "15kg",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Zrna žitarica, njihovi proizvodi i sporedni proizvodi, meso i životinjski sporedni proizvodi, biljni sporedni proizvodi, ulja i masti, kvasci, mineralne materije. ANALITIČKI SASTAV: protein 17%, sadržaj masti 8%, sirova vlakna 3,3%, sirovi pepeo 5,5%, vlaga 10%. Aditivi po kilogramu: vitamin A (RETINOLACETAT) 6000 IU; vitamin D3 (HOLEKALCIFEROL) 600IU; vitamin E (DL-A-TOKOFERILACETAT) 60mg; gvožđe (gvožđe-(II)-sulfat-monohidrat) 30mg; mangan (mangan-(II)-oksid) 11mg; bakar (bakar-(II)-sulfatpentahidrat) 5,3mg; cink (cinksulfat-monohidrat) 0,5mg; jod (kalcijum jodat)0,5mg; selen (natrijumselenit) 0,2mg, antioksidanti i prirodni konzervansi.",
+    "manufacturer": "PREMIL DOO KOVIN",
+    "brand": "Premil",
+    "briefDescription": "Kompletna hrana za normalno aktivne pse svih rasa."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd9a"
+  },
+  "id": 86,
+  "name": "Pedigree Biscrok",
+  "price": 185,
+  "photo": "http://localhost:4000/images/pedigree.jpg",
+  "category": "kucni_ljubimci",
+  "subcategory": "psi",
+  "availableQuantity": 62,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "200g",
+    "countryOfOrigin": "Mađarska",
+    "ingredients": "",
+    "manufacturer": "NELT CO. DOO BEOGRAD",
+    "brand": "Pedigree",
+    "briefDescription": "Pedigree hrana za pse."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd9b"
+  },
+  "id": 87,
+  "name": "Friskies granule za pse",
+  "price": 719,
+  "photo": "http://localhost:4000/images/friskies_granule.jpg",
+  "category": "kucni_ljubimci",
+  "subcategory": "psi",
+  "availableQuantity": 652,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "2,4kg",
+    "countryOfOrigin": "Mađarska",
+    "ingredients": "",
+    "manufacturer": "MERCATA VT DOO",
+    "brand": "Friskies",
+    "briefDescription": "Friskies granule za pse."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd9c"
+  },
+  "id": 88,
+  "name": "Hrana za mačke sa tunom",
+  "price": 95,
+  "photo": "http://localhost:4000/images/hrana_za_macke_gourment.jpg",
+  "category": "kucni_ljubimci",
+  "subcategory": "macke",
+  "availableQuantity": 1652,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "85g",
+    "countryOfOrigin": "Mađarska",
+    "ingredients": "",
+    "manufacturer": "MERCATA VT DOO",
+    "brand": "Mercata",
+    "briefDescription": "Hrana za mačke."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd9d"
+  },
+  "id": 89,
+  "name": "Hrana za mačke Whiskas",
+  "price": 248,
+  "photo": "http://localhost:4000/images/whiskas_hrana.jpg",
+  "category": "kucni_ljubimci",
+  "subcategory": "macke",
+  "availableQuantity": 841,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "400g",
+    "countryOfOrigin": "Poljska",
+    "ingredients": "",
+    "manufacturer": "NELT CO. DOO BEOGRAD",
+    "brand": "Whiskas",
+    "briefDescription": "Hrana za mačke Whiskas."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd9e"
+  },
+  "id": 90,
+  "name": "Hrana za mačke Maxi",
+  "price": 166,
+  "photo": "http://localhost:4000/images/hrana_za_macke_maxi.png",
+  "category": "kucni_ljubimci",
+  "subcategory": "macke",
+  "availableQuantity": 108,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "2,4kg",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Meso i sporedni životinjski protein, zrna žitarica, njihovi proizvodi i sporedni proizvodi, ulja i masti, sporedni proizvodi, kvasci, mineralne materije. ANALITIČKI PODACI: protein 27%, sadržaj masti 10%, sirova vlakna 3%, sirov pepeo 8%, vlaga 9%. Aditivi po kilogramu: vitamin A (RETINOLACETAT) 12000 IU; vitamin D3 (HOLEKALCIFEROL) 1200IU; vitamin E (DL-A-TOKOFERILACETAT) 120mg; gvožđe (gvožđe-(II)-sulfat-monohidrat) 73mg; mangan (mangan-(II)-oksid) 28mg; bakar (bakar-(II)-sulfatpentahidrat) 3,5mg; cink (cinksulfat-monohidrat) 105mg; jod (kalcijum jodat) 72mg; selen (natrijumselenit) 0,14mg, antioksidanti i prirodni konzervansi.",
+    "manufacturer": "PREMIL DOO KOVIN",
+    "brand": "Maxi",
+    "briefDescription": "Kompletna hrana mačke svih uzrasta."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdd9f"
+  },
+  "id": 91,
+  "name": "Hleb Ruski",
+  "price": 159,
+  "photo": "http://localhost:4000/images/hleb_ruski.png",
+  "category": "pecivo",
+  "subcategory": "hleb",
+  "availableQuantity": 318,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "350g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "pšenično belo brašno tip ¿500¿, integralno raženo brašno, voda, suncokretovo ulje, pekarski kvasac, voćno punjenje ( jabuka, breskva, šljiva, šećer, zgušnjivač: kukuruzni skrob; kiselina: limunska kiselina; konzervans: kalijum-sorbat), seme susama, kuhinjska so, pšenični gluten, preželatinizirano namensko pšenično brašno tip ¿1600¿, ječmeni slad, pšenični slad, kiselina: limunska kiselina; regulator kiselosti: kalcijum-acetat; konzervans: kalcijum-propionat; emulgator: estri mono- i diacetilvinske kiseline i mono- i diglicerida masnih kiselina; antioksidans: askorbinska kiselina; enzimi.",
+    "manufacturer": "DON DON DOO",
+    "brand": "Don Don",
+    "briefDescription": "Specijalne vrste hleba-hleb produžene svežine Mešani raženi hleb."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda0"
+  },
+  "id": 92,
+  "name": "Tost sa semenkama",
+  "price": 204,
+  "photo": "http://localhost:4000/images/tost_sa_semenkama.jpg",
+  "category": "pecivo",
+  "subcategory": "hleb",
+  "availableQuantity": 1236,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "500g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično belo brašno tip 500, pšenično integralno brašno, voda, pšenično kiselo testo (pšenično belo brašno tip 500, voda, starter kultura), šećer, suncokretovo ulje, semenke lana (1,8%), semenke suncokreta (1,8%), , kuhinjska so, pekarski kvasac, integralno pšenično brašno, pšenično kiselo testo, šećer, suncokretovo ulje, lan (1,45%), suncokret (1,45%), kvasac, so, fermentisano pšenično brašno, preželatinizirano pšenično brašno T1600, ječmeni slad, prženo pšenično sladno brašno, acerola u prahu, enzimi, aroma.",
+    "manufacturer": "DON DON DOO",
+    "brand": "Don Don",
+    "briefDescription": "Specijalna vrsta hleba produžene svežine."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda1"
+  },
+  "id": 93,
+  "name": "Štrudla sa makom",
+  "price": 429,
+  "photo": "http://localhost:4000/images/strudla_mak.png",
+  "category": "pecivo",
+  "subcategory": "kolac",
+  "availableQuantity": 512,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "500g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Brašno tip 400, mak, šećer.",
+    "manufacturer": "AS-BRACA STANKOVIC DOO",
+    "brand": "Braća Stanković",
+    "briefDescription": "Štrudla sa makom."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda2"
+  },
+  "id": 94,
+  "name": "Gurabije Domenica",
+  "price": 289,
+  "photo": "http://localhost:4000/images/gurabije_domenica.png",
+  "category": "pecivo",
+  "subcategory": "kolac",
+  "availableQuantity": 129,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "250g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "OMNICO DISTRIBUCIJA DOO",
+    "brand": "Omico",
+    "briefDescription": "Gurabije Domenica."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda3"
+  },
+  "id": 95,
+  "name": "Posni kolači",
+  "price": 969,
+  "photo": "http://localhost:4000/images/posni_kolaci.png",
+  "category": "pecivo",
+  "subcategory": "kolac",
+  "availableQuantity": 48,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "350g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "",
+    "manufacturer": "STAMEVSKI DOO",
+    "brand": "Stamevski",
+    "briefDescription": "Posni kolači Stamevski 450g."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda4"
+  },
+  "id": 96,
+  "name": "Ćokoladna torta Premia",
+  "price": 1299,
+  "photo": "http://localhost:4000/images/cokoladna_torta.png",
+  "category": "pecivo",
+  "subcategory": "torta",
+  "availableQuantity": 132,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "450g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Jaja, šećer, mleko, puding od čokolade ((kukuruzni skrob, kakao u prahu, aroma)), mlečna kakao tabla ((šećer, delimično hidrogenizovana biljna mast (sojina), kakao prah sa redukovanim sadržajem kakao maslaca 17%, obrano mleko u prahu 5%, emulgatori (sojin lecitin, E492), aroma)), margarin ((biljne masti (palmine), biljno ulje (suncokret), voda, emulgatori (mono- i digliceridi masnih kiselina, suncekrotov lecitin), kuhinjska so (0,1%), kiseline (E270, E330), konzervans (kalijum sorbat), aroma, boja (beta-karoten)), pšenično brašno, sredstvo za dizanje testa (dinatrijum-pirofosfat, natrijum-bikarbonat i kukuruzni skrob-gustin), kakao prah, biljno ulje (suncokret), mlečna čokolada 1,08%(punomasno mleko u prahu, kakao u prahu, kakao masa, emulgator (sojin lecitin), prirodni ekstrakt vanile).",
+    "manufacturer": "MORSAL DOO BEOGRAD",
+    "brand": "Premia",
+    "briefDescription": "Ukrašeni poslatičarski proizvod. Torta sa 3 kore od fermentisanog testa sa čokoladnim filom."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda5"
+  },
+  "id": 97,
+  "name": "Torta lešnik pusla torta",
+  "price": 1349,
+  "photo": "http://localhost:4000/images/torta_pusla.png",
+  "category": "pecivo",
+  "subcategory": "torta",
+  "availableQuantity": 112,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "800g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Jaja, secer, PSENICNO brasno, LESNIK (5.7%), margarin (biljne(palmine) masti, biljno (suncokretovo) ulje, voda, emulgatori (mono- i digliceridi masnih kiselina, suncokretov lecitin), kuhinjska so (0.1%), kiseline (E270, E330), konzervans (kalijum sorbat),aroma, boja (beta karoten)), PREZLA, voda, vanilin šećer, krem za pripremanje šlaga na biljnih masti (25%) zaslađen ((voda, hidrogenizovana biljna (palmina) mast (25%), šećer (12%), MLECNI protein, emulgatori (E472b, E322 (SOJIN lecitin), E472e), stabilizatori (E460, E466, E340), aroma, boja (E160a)).",
+    "manufacturer": "MORSAL DOO BEOGRAD",
+    "brand": "Morsal",
+    "briefDescription": "Torta."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda6"
+  },
+  "id": 98,
+  "name": "Torta Selection Mini",
+  "price": 1980,
+  "photo": "http://localhost:4000/images/torta_selection.png",
+  "category": "pecivo",
+  "subcategory": "torta",
+  "availableQuantity": 127,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "800g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Soja, mleko, kikiriki, jezgrasto voće.",
+    "manufacturer": "STAMEVSKI DOO",
+    "brand": "Stamevski",
+    "briefDescription": "Torta Selection Mini Stamevski 800g."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda7"
+  },
+  "id": 100,
+  "name": "MML Lezaljka Dondurma VR06 velicina L",
+  "price": 5149,
+  "photo": "http://localhost:4000/images/lezaljka_za_macke-1689369551775.jpeg",
+  "category": "kucni_ljubimci",
+  "subcategory": "macke",
+  "availableQuantity": 2142,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "500g",
+    "countryOfOrigin": "Turska",
+    "ingredients": "Tkanina, plis",
+    "manufacturer": "M&J TRADE DOO",
+    "brand": "M&J",
+    "briefDescription": "Udobna lezaljka za macke"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda8"
+  },
+  "id": 101,
+  "name": "Brijac zen Wilkinson extra3 beauty 1/1",
+  "price": 139,
+  "photo": "http://localhost:4000/images/brijac_wilkinson-1689372054187.jpeg",
+  "category": "hemija_higijena",
+  "subcategory": "higijena",
+  "availableQuantity": 531,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "20g",
+    "countryOfOrigin": "Nemačka",
+    "ingredients": "/",
+    "manufacturer": "MD INTERNATIONAL DOO",
+    "brand": "Wilkinson",
+    "briefDescription": "Brijac za osteljivu kozu"
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fdda9"
+  },
+  "id": 102,
+  "name": "Tortilja Mexicana Pip",
+  "price": 259,
+  "photo": "http://localhost:4000/images/default-product-image.png",
+  "category": "pecivo",
+  "subcategory": "hleb",
+  "availableQuantity": 565,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "320g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pšenično brašno Tip- 66%, voda, biljno ulje (palmino i suncokretovo), humiktant-glicerol, mešavina aditiva i drugih komponeneti (limunska kiselina , emulgator-mono i diglicerid masnih kiselina, zgušnjivači-guar guma i karboksimetilceluloza, enzimski kompleks), kuhinjska so, pšenični gluten, šežer, sredstvo za narastanje testa-natrijum hidrogenkarbonat, emulgator mono i digliceridi masnih kiselina, konzervans kalcijum propionat, konzervans kalijum sorbat, enzimi.",
+    "manufacturer": "PIP D.O.O. ZA PROIZ.USLUGE UNU",
+    "brand": "Mexicana",
+    "briefDescription": "Proizvod je gotov i spreman za upotrebu. Preporuka je tortilju zagrejati pre upotrebe i filovanja."
+  }
+},{
+  "_id": {
+    "$oid": "64c0398be77b48c1225fddaa"
+  },
+  "id": 103,
+  "name": "Grcki jogurt Dukatos Dukat",
+  "price": 150,
+  "photo": "http://localhost:4000/images/default-product-image.png",
+  "category": "mlecni_proizvodi",
+  "subcategory": "jogurt",
+  "availableQuantity": 341,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "400g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Pasterizovano mleko, pasterizovana pavlaka, obrano mleko u prahu, jogurtna kultura",
+    "manufacturer": "SOMBOLED DOO SOMBOR",
+    "brand": "Dukat",
+    "briefDescription": "Jogurt od pasterizovanog homogenizovanog mleka sa 9,7% m.m."
+  }
+},{
+  "_id": {
+    "$oid": "64c0e7dcf104278d2967e41e"
+  },
+  "id": 104,
+  "name": "Najlepše želje čokolada mlečna Soko Štark",
+  "price": 209,
+  "photo": "http://localhost:4000/images/default-product-image.png",
+  "category": "slatkisi",
+  "subcategory": "cokolada",
+  "availableQuantity": 1082,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "200g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Šećer, punomasno mleko u prahu, kakao maslac, kakao masa, obrano mleko u prahu,emulgator aroma.",
+    "manufacturer": "Soko Štark d.o.o., Kumodraška 249, 11010 Beograd",
+    "brand": "Soko Štark",
+    "briefDescription": "Mlečna čokolada sa visokim sadržajem mleka."
+  }
+},{
+  "_id": {
+    "$oid": "64c0e7dcf104278d2967e41f"
+  },
+  "id": 105,
+  "name": "Menaž čokolada za kuvanje",
+  "price": 99,
+  "photo": "http://localhost:4000/images/menaz-1690363922750.jpeg",
+  "category": "slatkisi",
+  "subcategory": "cokolada",
+  "availableQuantity": 549,
+  "onSale": false,
+  "discount": 0,
+  "description": {
+    "weight": "100g",
+    "countryOfOrigin": "Srbija",
+    "ingredients": "Šećer, kakao masa, kakao maslac,emulgatori,aroma.",
+    "manufacturer": "Soko Štark d.o.o., Kumodraška 249, 11010 Beograd",
+    "brand": "Soko Štark",
+    "briefDescription": "Čokolada za jelo i kuvanje."
+  }
+}]

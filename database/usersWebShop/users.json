@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "64c0399ce77b48c1225fddad"
+  },
+  "id": 0,
+  "firstName": "Petar",
+  "lastName": "Peric",
+  "email": "pera@gmail.com",
+  "password": "pera123",
+  "type": "0",
+  "secret": "dsas"
+},{
+  "_id": {
+    "$oid": "64c0399ce77b48c1225fddae"
+  },
+  "id": 1,
+  "firstName": "Zivorad",
+  "lastName": "Zikic",
+  "email": "zika@gmail.com",
+  "password": "zika123",
+  "type": "1",
+  "secret": "dsasd312fd"
+},{
+  "_id": {
+    "$oid": "64c0399ce77b48c1225fddaf"
+  },
+  "id": 2,
+  "firstName": "Miodrag",
+  "lastName": "Mikic",
+  "email": "miki@gmail.com",
+  "password": "miki123",
+  "type": "1",
+  "secret": "d32f12"
+},{
+  "_id": {
+    "$oid": "64c0399ce77b48c1225fddb0"
+  },
+  "id": 3,
+  "firstName": "Jelena",
+  "lastName": "Jankovic",
+  "email": "jeca@gmail.com",
+  "password": "jeca123",
+  "type": "1",
+  "secret": "d4124fa"
+},{
+  "_id": {
+    "$oid": "64c0399ce77b48c1225fddb1"
+  },
+  "firstName": "Milos",
+  "lastName": "Milosevic",
+  "email": "milos@hotmail.com",
+  "password": "misa.123",
+  "type": 0,
+  "secret": "bsw@&2VS*:Q5&5&KNblmQ70lz,T[/M[s",
+  "id": 4
+},{
+  "_id": {
+    "$oid": "64c0399ce77b48c1225fddb2"
+  },
+  "firstName": "Joca",
+  "lastName": "Jocic",
+  "email": "joca@gmail.com",
+  "password": "joca123",
+  "type": 0,
+  "secret": "8tg@>x)C$rnU/7t][3*yU>mBfT:WIz(d",
+  "id": 5
+}]

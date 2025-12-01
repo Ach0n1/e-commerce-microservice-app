@@ -1,0 +1,293 @@
+[{
+  "_id": {
+    "$oid": "64c039cfe77b48c1225fde01"
+  },
+  "statisticsId": 0,
+  "itemsSoldByCategory": [
+    {
+      "category": "grickalice",
+      "quantity": 34
+    },
+    {
+      "category": "hemija_higijena",
+      "quantity": 21
+    },
+    {
+      "category": "kucni_ljubimci",
+      "quantity": 5
+    },
+    {
+      "category": "meso",
+      "quantity": 24
+    },
+    {
+      "category": "mlecni_proizvodi",
+      "quantity": 9
+    },
+    {
+      "category": "napici",
+      "quantity": 73
+    },
+    {
+      "category": "pecivo",
+      "quantity": 28
+    },
+    {
+      "category": "slatkisi",
+      "quantity": 49
+    },
+    {
+      "category": "smrznuti_proizvodi",
+      "quantity": 8
+    },
+    {
+      "category": "voce_povrce",
+      "quantity": 46
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64c039cfe77b48c1225fde02"
+  },
+  "statisticsId": 1,
+  "itemsSoldCounter": [
+    {
+      "itemId": 20,
+      "itemName": "Coca Cola 1,5l",
+      "quantity": 57
+    },
+    {
+      "itemId": 34,
+      "itemName": "Grand kafa gold 200g",
+      "quantity": 30
+    },
+    {
+      "itemId": 41,
+      "itemName": "Banana 100g",
+      "quantity": 25
+    },
+    {
+      "itemId": 49,
+      "itemName": "Zlatiborac slanina 100g",
+      "quantity": 10
+    },
+    {
+      "itemId": 55,
+      "itemName": "Mleko Imlek 2,8%mm 1l",
+      "quantity": 63
+    },
+    {
+      "itemId": 91,
+      "itemName": "Hleb Ruski 350g",
+      "quantity": 36
+    },
+    {
+      "itemId": 98,
+      "itemName": "Torta Selection Mini 800g",
+      "quantity": 15
+    },
+    {
+      "itemId": 87,
+      "itemName": "Friskies granule za pse 2,4kg",
+      "quantity": 3
+    },
+    {
+      "itemId": 70,
+      "itemName": "Schauma šampon za suvu i oštećenu kosu 250ml",
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "itemName": "Chipsy rebrasti XXL slani 150g",
+      "quantity": 1
+    },
+    {
+      "itemId": 1,
+      "itemName": "Menaž čokolada za kuvanje 100g",
+      "quantity": 4
+    },
+    {
+      "itemId": 0,
+      "itemName": "Najlepše želje čokolada mlečna Soko Štark 200g",
+      "quantity": 3
+    },
+    {
+      "itemId": 4,
+      "itemName": "Medeno srce 150g",
+      "quantity": 2
+    },
+    {
+      "itemId": 16,
+      "itemName": "Prolom voda 1,5l",
+      "quantity": 1
+    },
+    {
+      "itemId": 44,
+      "itemName": "Mandarina 100g",
+      "quantity": 1
+    },
+    {
+      "itemId": 8,
+      "itemName": "Doritos BBQ 100g",
+      "quantity": 1
+    },
+    {
+      "itemId": 10,
+      "itemName": "Smoki 50g",
+      "quantity": 1
+    },
+    {
+      "itemId": 29,
+      "itemName": "Tikveš Smederevka belo vino 1l",
+      "quantity": 1
+    },
+    {
+      "itemId": 18,
+      "itemName": "Rosa negazirana voda 0,5l",
+      "quantity": 1
+    },
+    {
+      "itemId": 31,
+      "itemName": "Barbara polusuvo rose vino 0,75l",
+      "quantity": 1
+    },
+    {
+      "itemId": 37,
+      "itemName": "Čaj nana 20g",
+      "quantity": 1
+    },
+    {
+      "itemId": 43,
+      "itemName": "Limun 100g",
+      "quantity": 1
+    },
+    {
+      "itemId": 75,
+      "itemName": "Pileći file 480g",
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "itemName": "Jaffa biskvit 100g",
+      "quantity": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64c039cfe77b48c1225fde03"
+  },
+  "statisticsId": 2,
+  "dailyIncome": [
+    {
+      "date": "2023-07-01",
+      "income": 114032
+    },
+    {
+      "date": "2023-07-02",
+      "income": 23123
+    },
+    {
+      "date": "2023-07-03",
+      "income": 65432
+    },
+    {
+      "date": "2023-07-04",
+      "income": 82311
+    },
+    {
+      "date": "2023-07-05",
+      "income": 33215
+    },
+    {
+      "date": "2023-07-06",
+      "income": 55312
+    },
+    {
+      "date": "2023-07-07",
+      "income": 73436
+    },
+    {
+      "date": "2023-07-08",
+      "income": 13235
+    },
+    {
+      "date": "2023-07-09",
+      "income": 23442
+    },
+    {
+      "date": "2023-07-10",
+      "income": 93826
+    },
+    {
+      "date": "2023-07-11",
+      "income": 43321
+    },
+    {
+      "date": "2023-07-12",
+      "income": 2157
+    },
+    {
+      "date": "2023-07-13",
+      "income": 56025.11
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64c039cfe77b48c1225fde04"
+  },
+  "statisticsId": 3,
+  "dailyOrders": [
+    {
+      "date": "2023-07-01",
+      "count": 50
+    },
+    {
+      "date": "2023-07-02",
+      "count": 43
+    },
+    {
+      "date": "2023-07-03",
+      "count": 39
+    },
+    {
+      "date": "2023-07-04",
+      "count": 25
+    },
+    {
+      "date": "2023-07-05",
+      "count": 52
+    },
+    {
+      "date": "2023-07-06",
+      "count": 48
+    },
+    {
+      "date": "2023-07-07",
+      "count": 12
+    },
+    {
+      "date": "2023-07-08",
+      "count": 19
+    },
+    {
+      "date": "2023-07-09",
+      "count": 32
+    },
+    {
+      "date": "2023-07-10",
+      "count": 44
+    },
+    {
+      "date": "2023-07-11",
+      "count": 39
+    },
+    {
+      "date": "2023-07-12",
+      "count": 2
+    },
+    {
+      "date": "2023-07-13",
+      "count": 11
+    }
+  ]
+}]

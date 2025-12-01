@@ -1,0 +1,244 @@
+[{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd27"
+  },
+  "itemId": 1,
+  "userEmail": "pera@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-14"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd28"
+  },
+  "itemId": 2,
+  "userEmail": "pera@gmail.com",
+  "rating": 3,
+  "text": "Lepo!",
+  "timestamp": "2023-01-12"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd29"
+  },
+  "itemId": 2,
+  "userEmail": "zika@gmail.com",
+  "rating": 2,
+  "text": "Nije to to!",
+  "timestamp": "2022-12-03"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd2a"
+  },
+  "itemId": 3,
+  "userEmail": "pera@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd2b"
+  },
+  "itemId": 3,
+  "userEmail": "jeca@gmail.com",
+  "rating": 5,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2020-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd2c"
+  },
+  "itemId": 5,
+  "userEmail": "miki@gmail.com",
+  "rating": 3,
+  "text": "Prelepo je zaista, svaka preporuka!",
+  "timestamp": "2019-09-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd2d"
+  },
+  "itemId": 6,
+  "userEmail": "miki@gmail.com",
+  "rating": 1,
+  "text": "Ne bih vam ovo preporučio!",
+  "timestamp": "2015-01-19"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd2e"
+  },
+  "itemId": 10,
+  "userEmail": "zika@gmail.com",
+  "rating": 2,
+  "text": "Nisam impresioniran!",
+  "timestamp": "2022-12-11"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd2f"
+  },
+  "itemId": 15,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-12"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd30"
+  },
+  "itemId": 16,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd31"
+  },
+  "itemId": 20,
+  "userEmail": "jeca@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd32"
+  },
+  "itemId": 21,
+  "userEmail": "zika@gmail.com",
+  "rating": 3,
+  "text": "OK!",
+  "timestamp": "2022-12-03"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd33"
+  },
+  "itemId": 21,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd34"
+  },
+  "itemId": 23,
+  "userEmail": "zika@gmail.com",
+  "rating": 5,
+  "text": "Odlicno!",
+  "timestamp": "2020-01-04"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd35"
+  },
+  "itemId": 30,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd36"
+  },
+  "itemId": 35,
+  "userEmail": "jeca@gmail.com",
+  "rating": 1,
+  "text": "Uzas!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd37"
+  },
+  "itemId": 36,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd38"
+  },
+  "itemId": 45,
+  "userEmail": "jeca@gmail.com",
+  "rating": 2,
+  "text": "Preskupo!",
+  "timestamp": "2022-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd39"
+  },
+  "itemId": 42,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd3a"
+  },
+  "itemId": 62,
+  "userEmail": "jeca@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd3b"
+  },
+  "itemId": 84,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd3c"
+  },
+  "itemId": 75,
+  "userEmail": "jeca@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd3d"
+  },
+  "itemId": 97,
+  "userEmail": "miki@gmail.com",
+  "rating": 4,
+  "text": "Fantastican ukus jos bolje pakovanje!",
+  "timestamp": "2023-02-10"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd3e"
+  },
+  "itemId": 2,
+  "userEmail": "milos@hotmail.com",
+  "rating": 4,
+  "text": "Jako kvalitetan keks!",
+  "timestamp": "2023-07-17"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd3f"
+  },
+  "itemId": 2,
+  "userEmail": "milos@hotmail.com",
+  "rating": 3,
+  "text": "Sjajno!",
+  "timestamp": "2023-07-17"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd40"
+  },
+  "itemId": 2,
+  "userEmail": "milos@hotmail.com",
+  "rating": 3,
+  "text": "Sjajno",
+  "timestamp": "2023-07-17"
+},{
+  "_id": {
+    "$oid": "64c0395ae77b48c1225fdd41"
+  },
+  "itemId": 2,
+  "userEmail": "milos@hotmail.com",
+  "rating": 5,
+  "text": "Prelepo!",
+  "timestamp": "2023-07-17"
+}]

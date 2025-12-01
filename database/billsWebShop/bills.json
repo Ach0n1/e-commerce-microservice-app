@@ -1,0 +1,1901 @@
+[{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddb5"
+  },
+  "billId": 0,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 427.2,
+  "dateTime": "2023-07-06 11:40:18"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddb6"
+  },
+  "billId": 1,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 2,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 627.7,
+  "dateTime": "2023-07-06 12:02:41"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddb7"
+  },
+  "billId": 2,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 22,
+      "quantity": 2
+    },
+    {
+      "itemId": 34,
+      "quantity": 1
+    },
+    {
+      "itemId": 41,
+      "quantity": 3
+    }
+  ],
+  "totalPrice": 1363,
+  "dateTime": "2023-07-06 12:50:58"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddb8"
+  },
+  "billId": 3,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    },
+    {
+      "itemId": 14,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 279.7,
+  "dateTime": "2023-07-06 12:52:58"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddb9"
+  },
+  "billId": 4,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 98,
+      "quantity": 1
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    },
+    {
+      "itemId": 79,
+      "quantity": 4
+    },
+    {
+      "itemId": 67,
+      "quantity": 2
+    },
+    {
+      "itemId": 61,
+      "quantity": 1
+    },
+    {
+      "itemId": 53,
+      "quantity": 3
+    },
+    {
+      "itemId": 46,
+      "quantity": 3
+    },
+    {
+      "itemId": 40,
+      "quantity": 3
+    },
+    {
+      "itemId": 31,
+      "quantity": 1
+    },
+    {
+      "itemId": 23,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 6015.5,
+  "dateTime": "2023-07-06 12:59:31"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddba"
+  },
+  "billId": 5,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 5,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 24,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 483,
+  "dateTime": "2023-07-06 12:59:47"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddbb"
+  },
+  "billId": 6,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 74,
+      "quantity": 3
+    },
+    {
+      "itemId": 76,
+      "quantity": 2
+    },
+    {
+      "itemId": 78,
+      "quantity": 3
+    },
+    {
+      "itemId": 86,
+      "quantity": 2
+    },
+    {
+      "itemId": 92,
+      "quantity": 1
+    },
+    {
+      "itemId": 95,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 6312,
+  "dateTime": "2023-07-06 13:00:05"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddbc"
+  },
+  "billId": 7,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 5,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 24,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 483,
+  "dateTime": "2023-07-05 12:59:47"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddbd"
+  },
+  "billId": 8,
+  "userId": 6,
+  "boughtItems": [
+    {
+      "itemId": 5,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 24,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 483,
+  "dateTime": "2023-07-04 12:59:47"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddbe"
+  },
+  "billId": 9,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 5,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 24,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 483,
+  "dateTime": "2023-07-03 12:59:47"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddbf"
+  },
+  "billId": 10,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 5,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 24,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 483,
+  "dateTime": "2023-07-02 12:59:47"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc0"
+  },
+  "billId": 11,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 427.2,
+  "dateTime": "2023-07-02 11:40:18"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc1"
+  },
+  "billId": 12,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 2,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 627.7,
+  "dateTime": "2023-07-03 12:02:41"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc2"
+  },
+  "billId": 13,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 427.2,
+  "dateTime": "2023-07-04 11:40:18"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc3"
+  },
+  "billId": 14,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 2,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 627.7,
+  "dateTime": "2023-06-30 12:02:41"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc4"
+  },
+  "billId": 15,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 427.2,
+  "dateTime": "2023-07-05 11:40:18"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc5"
+  },
+  "billId": 16,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 2,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 627.7,
+  "dateTime": "2023-07-06 12:02:41"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc6"
+  },
+  "billId": 17,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 427.2,
+  "dateTime": "2023-07-07 11:40:18"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc7"
+  },
+  "billId": 18,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 2,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 627.7,
+  "dateTime": "2023-07-04 12:02:41"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc8"
+  },
+  "billId": 19,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 427.2,
+  "dateTime": "2023-07-08 11:40:18"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddc9"
+  },
+  "billId": 20,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 1,
+      "quantity": 1
+    },
+    {
+      "itemId": 2,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 627.7,
+  "dateTime": "2023-07-01 12:02:41"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddca"
+  },
+  "billId": 21,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 0,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 3
+    },
+    {
+      "itemId": 29,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 2
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3679.3,
+  "dateTime": "2023-07-06 13:12:15"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddcb"
+  },
+  "billId": 22,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 23,
+      "quantity": 1
+    },
+    {
+      "itemId": 30,
+      "quantity": 1
+    },
+    {
+      "itemId": 39,
+      "quantity": 2
+    },
+    {
+      "itemId": 44,
+      "quantity": 4
+    },
+    {
+      "itemId": 48,
+      "quantity": 4
+    },
+    {
+      "itemId": 51,
+      "quantity": 1
+    },
+    {
+      "itemId": 56,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3281,
+  "dateTime": "2023-07-06 13:12:46"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddcc"
+  },
+  "billId": 23,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 11,
+      "quantity": 1
+    },
+    {
+      "itemId": 19,
+      "quantity": 2
+    },
+    {
+      "itemId": 38,
+      "quantity": 2
+    },
+    {
+      "itemId": 49,
+      "quantity": 4
+    },
+    {
+      "itemId": 64,
+      "quantity": 2
+    },
+    {
+      "itemId": 69,
+      "quantity": 1
+    },
+    {
+      "itemId": 80,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 4519.78,
+  "dateTime": "2023-07-06 13:13:31"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddcd"
+  },
+  "billId": 24,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 0,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 3
+    },
+    {
+      "itemId": 29,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 2
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3679.3,
+  "dateTime": "2023-07-03 13:12:15"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddce"
+  },
+  "billId": 25,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 23,
+      "quantity": 1
+    },
+    {
+      "itemId": 30,
+      "quantity": 1
+    },
+    {
+      "itemId": 39,
+      "quantity": 2
+    },
+    {
+      "itemId": 44,
+      "quantity": 4
+    },
+    {
+      "itemId": 48,
+      "quantity": 4
+    },
+    {
+      "itemId": 51,
+      "quantity": 1
+    },
+    {
+      "itemId": 56,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3281,
+  "dateTime": "2023-07-02 13:12:46"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddcf"
+  },
+  "billId": 26,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 11,
+      "quantity": 1
+    },
+    {
+      "itemId": 19,
+      "quantity": 2
+    },
+    {
+      "itemId": 38,
+      "quantity": 2
+    },
+    {
+      "itemId": 49,
+      "quantity": 4
+    },
+    {
+      "itemId": 64,
+      "quantity": 2
+    },
+    {
+      "itemId": 69,
+      "quantity": 1
+    },
+    {
+      "itemId": 80,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 4519.78,
+  "dateTime": "2023-07-04 13:13:31"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd0"
+  },
+  "billId": 27,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 0,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 3
+    },
+    {
+      "itemId": 29,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 2
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3679.3,
+  "dateTime": "2023-07-05 13:12:15"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd1"
+  },
+  "billId": 28,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 23,
+      "quantity": 1
+    },
+    {
+      "itemId": 30,
+      "quantity": 1
+    },
+    {
+      "itemId": 39,
+      "quantity": 2
+    },
+    {
+      "itemId": 44,
+      "quantity": 4
+    },
+    {
+      "itemId": 48,
+      "quantity": 4
+    },
+    {
+      "itemId": 51,
+      "quantity": 1
+    },
+    {
+      "itemId": 56,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3281,
+  "dateTime": "2023-07-03 13:12:46"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd2"
+  },
+  "billId": 29,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 11,
+      "quantity": 1
+    },
+    {
+      "itemId": 19,
+      "quantity": 2
+    },
+    {
+      "itemId": 38,
+      "quantity": 2
+    },
+    {
+      "itemId": 49,
+      "quantity": 4
+    },
+    {
+      "itemId": 64,
+      "quantity": 2
+    },
+    {
+      "itemId": 69,
+      "quantity": 1
+    },
+    {
+      "itemId": 80,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 4519.78,
+  "dateTime": "2023-07-02 13:13:31"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd3"
+  },
+  "billId": 30,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 0,
+      "quantity": 2
+    },
+    {
+      "itemId": 10,
+      "quantity": 3
+    },
+    {
+      "itemId": 29,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 2
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3679.3,
+  "dateTime": "2023-07-01 13:12:15"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd4"
+  },
+  "billId": 31,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 23,
+      "quantity": 1
+    },
+    {
+      "itemId": 30,
+      "quantity": 1
+    },
+    {
+      "itemId": 39,
+      "quantity": 2
+    },
+    {
+      "itemId": 44,
+      "quantity": 4
+    },
+    {
+      "itemId": 48,
+      "quantity": 4
+    },
+    {
+      "itemId": 51,
+      "quantity": 1
+    },
+    {
+      "itemId": 56,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 3281,
+  "dateTime": "2023-06-30 13:12:46"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd5"
+  },
+  "billId": 32,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 11,
+      "quantity": 1
+    },
+    {
+      "itemId": 19,
+      "quantity": 2
+    },
+    {
+      "itemId": 38,
+      "quantity": 2
+    },
+    {
+      "itemId": 49,
+      "quantity": 4
+    },
+    {
+      "itemId": 64,
+      "quantity": 2
+    },
+    {
+      "itemId": 69,
+      "quantity": 1
+    },
+    {
+      "itemId": 80,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 4519.78,
+  "dateTime": "2023-07-04 13:13:31"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd6"
+  },
+  "billId": 33,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 40,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 283,
+  "dateTime": "2023-07-06 13:18:58"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd7"
+  },
+  "billId": 34,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 33,
+      "quantity": 1
+    },
+    {
+      "itemId": 48,
+      "quantity": 3
+    },
+    {
+      "itemId": 60,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1835.3,
+  "dateTime": "2023-07-06 13:19:28"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd8"
+  },
+  "billId": 35,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 31,
+      "quantity": 1
+    },
+    {
+      "itemId": 47,
+      "quantity": 4
+    },
+    {
+      "itemId": 46,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1292.36,
+  "dateTime": "2023-07-06 13:19:59"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddd9"
+  },
+  "billId": 36,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 40,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 283,
+  "dateTime": "2023-07-05 13:18:58"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddda"
+  },
+  "billId": 37,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 33,
+      "quantity": 1
+    },
+    {
+      "itemId": 48,
+      "quantity": 3
+    },
+    {
+      "itemId": 60,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1835.3,
+  "dateTime": "2023-07-01 13:19:28"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdddb"
+  },
+  "billId": 38,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 31,
+      "quantity": 1
+    },
+    {
+      "itemId": 47,
+      "quantity": 4
+    },
+    {
+      "itemId": 46,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1292.36,
+  "dateTime": "2023-07-03 13:19:59"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdddc"
+  },
+  "billId": 39,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 40,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 283,
+  "dateTime": "2023-07-06 13:18:58"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdddd"
+  },
+  "billId": 40,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 33,
+      "quantity": 1
+    },
+    {
+      "itemId": 48,
+      "quantity": 3
+    },
+    {
+      "itemId": 60,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1835.3,
+  "dateTime": "2023-07-03 13:19:28"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddde"
+  },
+  "billId": 41,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 31,
+      "quantity": 1
+    },
+    {
+      "itemId": 47,
+      "quantity": 4
+    },
+    {
+      "itemId": 46,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1292.36,
+  "dateTime": "2023-07-04 13:19:59"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdddf"
+  },
+  "billId": 42,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 25,
+      "quantity": 1
+    },
+    {
+      "itemId": 40,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 283,
+  "dateTime": "2023-07-04 13:18:58"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde0"
+  },
+  "billId": 43,
+  "userId": 4,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 33,
+      "quantity": 1
+    },
+    {
+      "itemId": 48,
+      "quantity": 3
+    },
+    {
+      "itemId": 60,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1835.3,
+  "dateTime": "2023-07-03 13:19:28"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde1"
+  },
+  "billId": 44,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 14,
+      "quantity": 1
+    },
+    {
+      "itemId": 21,
+      "quantity": 1
+    },
+    {
+      "itemId": 31,
+      "quantity": 1
+    },
+    {
+      "itemId": 47,
+      "quantity": 4
+    },
+    {
+      "itemId": 46,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1292.36,
+  "dateTime": "2023-07-02 13:19:59"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde2"
+  },
+  "billId": 46,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 6,
+      "quantity": 1
+    },
+    {
+      "itemId": 7,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 191,
+  "dateTime": "2023-07-12 12:14:03"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde3"
+  },
+  "billId": 47,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 140.6,
+  "dateTime": "2023-07-12 12:14:53"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde4"
+  },
+  "billId": 48,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 140.6,
+  "dateTime": "2023-07-12 12:15:59"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde5"
+  },
+  "billId": 49,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 7,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 50.4,
+  "dateTime": "2023-07-12 12:17:43"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde6"
+  },
+  "billId": 50,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 7,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 50.4,
+  "dateTime": "2023-07-12 12:23:26"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde7"
+  },
+  "billId": 51,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 140.6,
+  "dateTime": "2023-07-12 12:27:25"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde8"
+  },
+  "billId": 52,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 140.6,
+  "dateTime": "2023-07-12 12:28:24"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdde9"
+  },
+  "billId": 53,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 140.6,
+  "dateTime": "2023-07-12 12:29:37"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddea"
+  },
+  "billId": 54,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 140.6,
+  "dateTime": "2023-07-12 12:30:49"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddeb"
+  },
+  "billId": 55,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 20,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 120,
+  "dateTime": "2023-07-12 13:31:43"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddec"
+  },
+  "billId": 56,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 20,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 120,
+  "dateTime": "2023-07-12 13:38:12"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fdded"
+  },
+  "billId": 57,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 20,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 120,
+  "dateTime": "2023-07-12 13:41:01"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddee"
+  },
+  "billId": 58,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 20,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 240,
+  "dateTime": "2023-07-12 13:43:46"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddef"
+  },
+  "billId": 59,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 98,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 1980,
+  "dateTime": "2023-07-12 13:46:47"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf0"
+  },
+  "billId": 60,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 98,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 1980,
+  "dateTime": "2023-07-12 13:49:55"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf1"
+  },
+  "billId": 61,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 98,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 3960,
+  "dateTime": "2023-07-12 13:50:37"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf2"
+  },
+  "billId": 62,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 87,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 719,
+  "dateTime": "2023-07-12 14:07:13"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf3"
+  },
+  "billId": 63,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 87,
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 1438,
+  "dateTime": "2023-07-12 14:10:58"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf4"
+  },
+  "billId": 64,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 70,
+      "quantity": 1
+    },
+    {
+      "itemId": 72,
+      "quantity": 1
+    },
+    {
+      "itemId": 75,
+      "quantity": 2
+    },
+    {
+      "itemId": 80,
+      "quantity": 3
+    },
+    {
+      "itemId": 84,
+      "quantity": 1
+    },
+    {
+      "itemId": 85,
+      "quantity": 1
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 5709.59,
+  "dateTime": "2023-07-13 09:45:36"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf5"
+  },
+  "billId": 65,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 70,
+      "quantity": 1
+    },
+    {
+      "itemId": 72,
+      "quantity": 1
+    },
+    {
+      "itemId": 75,
+      "quantity": 2
+    },
+    {
+      "itemId": 80,
+      "quantity": 3
+    },
+    {
+      "itemId": 84,
+      "quantity": 1
+    },
+    {
+      "itemId": 85,
+      "quantity": 1
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 5709.59,
+  "dateTime": "2023-07-13 09:47:12"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf6"
+  },
+  "billId": 66,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 70,
+      "quantity": 1
+    },
+    {
+      "itemId": 72,
+      "quantity": 1
+    },
+    {
+      "itemId": 75,
+      "quantity": 2
+    },
+    {
+      "itemId": 80,
+      "quantity": 3
+    },
+    {
+      "itemId": 84,
+      "quantity": 1
+    },
+    {
+      "itemId": 85,
+      "quantity": 1
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 5709.59,
+  "dateTime": "2023-07-13 11:35:41"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf7"
+  },
+  "billId": 67,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 70,
+      "quantity": 1
+    },
+    {
+      "itemId": 72,
+      "quantity": 1
+    },
+    {
+      "itemId": 75,
+      "quantity": 2
+    },
+    {
+      "itemId": 80,
+      "quantity": 3
+    },
+    {
+      "itemId": 84,
+      "quantity": 1
+    },
+    {
+      "itemId": 85,
+      "quantity": 1
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 5709.59,
+  "dateTime": "2023-07-13 11:42:22"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf8"
+  },
+  "billId": 68,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 70,
+      "quantity": 1
+    },
+    {
+      "itemId": 72,
+      "quantity": 1
+    },
+    {
+      "itemId": 75,
+      "quantity": 2
+    },
+    {
+      "itemId": 80,
+      "quantity": 3
+    },
+    {
+      "itemId": 84,
+      "quantity": 1
+    },
+    {
+      "itemId": 85,
+      "quantity": 1
+    },
+    {
+      "itemId": 91,
+      "quantity": 1
+    },
+    {
+      "itemId": 97,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 5709.59,
+  "dateTime": "2023-07-13 11:47:19"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddf9"
+  },
+  "billId": 69,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 70,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 413.48,
+  "dateTime": "2023-07-13 12:06:14"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddfa"
+  },
+  "billId": 70,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 70,
+      "quantity": 1
+    },
+    {
+      "itemId": 6,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 413.48,
+  "dateTime": "2023-07-13 12:12:53"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddfb"
+  },
+  "billId": 71,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 0,
+      "quantity": 1
+    },
+    {
+      "itemId": 16,
+      "quantity": 1
+    },
+    {
+      "itemId": 44,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 463,
+  "dateTime": "2023-07-13 12:38:42"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddfc"
+  },
+  "billId": 72,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 8,
+      "quantity": 1
+    },
+    {
+      "itemId": 10,
+      "quantity": 1
+    },
+    {
+      "itemId": 18,
+      "quantity": 1
+    },
+    {
+      "itemId": 29,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 538.1,
+  "dateTime": "2023-07-13 12:44:20"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddfd"
+  },
+  "billId": 73,
+  "userId": 5,
+  "boughtItems": [
+    {
+      "itemId": 31,
+      "quantity": 1
+    },
+    {
+      "itemId": 37,
+      "quantity": 1
+    },
+    {
+      "itemId": 43,
+      "quantity": 1
+    },
+    {
+      "itemId": 75,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 1461,
+  "dateTime": "2023-07-13 12:47:47"
+},{
+  "_id": {
+    "$oid": "64c039bde77b48c1225fddfe"
+  },
+  "billId": 74,
+  "userId": 0,
+  "boughtItems": [
+    {
+      "itemId": 0,
+      "quantity": 1
+    },
+    {
+      "itemId": 4,
+      "quantity": 1
+    },
+    {
+      "itemId": 3,
+      "quantity": 1
+    },
+    {
+      "itemId": 98,
+      "quantity": 12
+    }
+  ],
+  "totalPrice": 24188.1,
+  "dateTime": "2023-07-13 20:35:44"
+}]
