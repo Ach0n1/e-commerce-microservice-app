@@ -1,10 +1,1 @@
-https://www.c-sharpcorner.com/article/how-to-integrate-google-maps-in-angular-14-app/
 
-https://timdeschryver.dev/blog/google-maps-as-an-angular-component#putting-it-all-together
-
-//ovo je za searchovanje na osnovu unetog parametra
-https://www.mongodb.com/docs/manual/core/index-text/#std-label-index-feature-text
-
-
-//kursna lista API
-https://exchangerate.host/#/
