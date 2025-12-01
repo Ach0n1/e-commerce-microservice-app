@@ -1,0 +1,70 @@
+<h1>Statistika</h1>
+
+
+<div class="lineAndBarChart">
+    <h2>Najprodavaniji proizvodi</h2>
+    <ngx-charts-bar-vertical [results]="itemsSoldCounter" [xAxisLabel]="''" [legendTitle]="'Naziv artikla'"
+        [yAxisLabel]="'Količina'" [legend]="true" [showXAxisLabel]="true" [showYAxisLabel]="true" [xAxis]="true"
+        [yAxis]="true" [gradient]="true">
+    </ngx-charts-bar-vertical>
+</div>
+
+
+<div class="lineAndBarChart">
+    <h2>Dnevni prihod</h2>
+    <ngx-charts-line-chart [results]="dailyIncome" [legend]="false" [showXAxisLabel]="true" [showYAxisLabel]="true"
+        [xAxis]="true" [yAxis]="true" [xAxisLabel]="'Datum'" [yAxisLabel]="'Prihod [RSD]'"
+        [timeline]="true"></ngx-charts-line-chart>
+</div>
+
+
+<div class="lineAndBarChart">
+    <h2>Dnevni broj porudžbina</h2>
+    <ngx-charts-line-chart [results]="dailyOrders" [legend]="false" [showXAxisLabel]="true" [showYAxisLabel]="true"
+        [xAxis]="true" [yAxis]="true" [xAxisLabel]="'Datum'" [yAxisLabel]="'Broj porudžbina'"
+        [timeline]="true"></ngx-charts-line-chart>
+</div>
+
+<div class="pieCharts">
+    <!-- <ngx-charts-pie-chart [results]="salesPerCategory" [legend]="true" [labels]="true">
+    </ngx-charts-pie-chart> -->
+    <h2>Udeo prodaje po kategorijama</h2>
+    <ngx-charts-advanced-pie-chart [results]="salesPerCategory">
+    </ngx-charts-advanced-pie-chart>
+</div>
+
+
+
+<ngx-charts-number-card [view]="[2000,200]">
+</ngx-charts-number-card>
+
+<h1>Porudžbine</h1>
+<div class="row billDetails">
+    <div class=" col-sm-1"></div>
+    <div class=" col-sm-1">ID porudžbine</div>
+    <div class=" col-sm-1">ID korisnika</div>
+    <div class=" col-sm-2">Artikal</div>
+    <div class=" col-sm-2">Količina</div>
+    <div class=" col-sm-1">Iznos računa</div>
+    <div class=" col-sm-2">Datum i vreme</div>
+    <div class=" col-sm-1"></div>
+
+</div>
+
+<div class="row billDetails" *ngFor="let bill of allBills">
+    <div class=" col-sm-1"></div>
+    <div class=" col-sm-1 my-auto">{{bill.billId}}</div>
+    <div class=" col-sm-1 my-auto">{{bill.userId}}</div>
+    <div class=" col-sm-4 my-auto">
+        <div class="row" *ngFor="let i of bill.items">
+            <div class=" col-sm-6">{{i.item.name}}</div>
+            <div class=" col-sm-6">{{i.quantity}}</div>
+        </div>
+    </div>
+    <div class=" col-sm-1 my-auto">{{bill.totalPrice}} RSD</div>
+    <div class=" col-sm-2 my-auto">{{bill.dateTime}}</div>
+    <div class=" col-sm-1 my-auto"><button class="btn btn-success"
+            (click)="generatePDFBill(bill.billId, bill.totalPrice, bill.dateTime)">Preuzmi PDF
+        </button>
+    </div>
+    <div class=" col-sm-1"></div>

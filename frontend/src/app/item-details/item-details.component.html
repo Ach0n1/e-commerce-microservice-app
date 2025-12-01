@@ -1,0 +1,97 @@
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src={{itemDetails.photo}} alt="..."></div>
+            <div class="col-md-6">
+                <div class="small mb-1">{{itemDetails.description.brand}}</div>
+                <h1 class="display-5 fw-bolder">{{itemDetails.name}} {{itemDetails.description.weight}}</h1>
+                <div class="fs-5 mb-5" *ngIf="itemDetails.onSale">
+                    <h4 class="text-decoration-line-through">{{itemDetails.price}} RSD</h4>
+                    <img src="../../assets/discount.png" class="discountImage"> <span class="redText">
+                        <b>-{{itemDetails.discount}}%</b></span>
+                    <br />
+                    <br />
+                    <h2 class="redText">{{discountItemPrice}} RSD</h2>
+                </div>
+                <div class=" fs-5 mb-5" *ngIf="!itemDetails.onSale">
+                    <br />
+                    <h3>{{itemDetails.price}} RSD</h3>
+                </div>
+                <p class="lead">Opis: {{itemDetails.description.briefDescription}}</p>
+                <p class="lead">Sastojci: {{itemDetails.description.ingredients}}</p>
+                <p class="lead">Proizvođač: {{itemDetails.description.manufacturer}}</p>
+
+                <div class="d-flex addingOption">
+
+                    <!-- Change the `data-field` of buttons and `name` of input field's for multiple plus minus buttons-->
+                    <div class="input-group plus-minus-input">
+                        <div class="input-group-button">
+                            <button type="button" class="increment-decrement-button" data-quantity="minus"
+                                data-field="quantity" (click)="itemQuantityDecrement(itemQuantity.id)">
+                                <i class="fa fa-minus" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                        <input #itemQuantity class="input-group-field" type="number" name="quantity" value="0" min="0"
+                            id="itemQuantity{{itemDetails.id}}">
+                        <div class="input-group-button">
+                            <button type="button" class="increment-decrement-button" data-quantity="plus"
+                                data-field="quantity" (click)="itemQuantityIncrement(itemQuantity.id)">
+                                <i class="fa fa-plus" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                    </div>
+
+
+
+
+                    <button type="button" class="btn btn-success addToCartButton"
+                        (click)="addToCart(itemDetails, itemQuantity.value, itemQuantity.id)">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor"
+                            class="bi bi-cart" viewBox="0 0 16 16">
+                            <path
+                                d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM3.102 4l1.313 7h8.17l1.313-7H3.102zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                            </path>
+                        </svg>
+                        Dodaj u korpu
+                    </button>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div *ngIf="userLoogedIn == true && userBoughtThisItem == true" class="commentSection">
+            <h2>Ocenite artikal:</h2>
+            <div class="newComment">
+                Komentar:
+                <br /> <textarea [(ngModel)]="newItemComment"> </textarea>
+                <br />
+                Ocena: <ngb-rating [max]="5" [(rate)]="newItemRating" [readonly]="false"></ngb-rating>
+
+            </div>
+            <button class="btn btn-success" (click)="addNewComment()">Dodajte komentar</button>
+
+        </div>
+
+        <div *ngIf="itemComments.length == 0; else commentsExists" class="commentSection">
+            <h2>Recenzije za ovaj artikal ne postoje!</h2>
+        </div>
+
+        <ng-template #commentsExists>
+            <div class="commentSection">
+                <h2>Recenzije</h2>
+                <div *ngFor="let comment of itemComments">
+                    <br>
+                    <h3>{{comment.username}} <ngb-rating [max]="5" [(rate)]="comment.rating"
+                            [readonly]="true"></ngb-rating>
+                    </h3>
+                    <h5>{{comment.timestamp}}</h5>
+                    <h1></h1>
+                    <p>{{comment.text}}</p>
+                </div>
+            </div>
+        </ng-template>
+
+
+    </div>
+</section>

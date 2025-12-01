@@ -1,0 +1,46 @@
+.container{
+    padding-top: 5vw;
+    padding-bottom: 10vw;
+}
+
+.shopsInformations h5{
+    color:#a10000;
+}
+
+.shopsInformations{
+    width: 100%;
+    padding-top: 5vw;
+}
+
+.workingHours{
+    color: #a10000;
+
+}
+
+table td{
+    padding: 0.5vw;
+    /* text-align: left; */
+}
+
+table{
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 3vw;
+
+}
+
+.newShop{
+    border:1px solid black;
+    border-radius: 0.5vw;
+    margin: 0 auto;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    margin-top: 5vw;
+}
+
+/* to hide arrows from input number */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

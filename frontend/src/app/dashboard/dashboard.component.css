@@ -1,0 +1,38 @@
+.billInformation{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.billDetails{
+    border-bottom:1px solid black;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+
+.pieCharts{
+    width: 75vw;
+    height: 30vw;
+    margin: auto;
+    margin-top: 5vw;
+}
+.pieCharts h2{
+    text-align: left;
+
+}
+
+
+.lineAndBarChart{
+    width: 80vw;
+    height: 30vw;
+    margin: auto;
+    margin-top: 5vw;
+}
+
+.lineAndBarChart h2{
+    text-align: left;
+
+}
+
+h1{
+    margin-top: 5vw;
+}
