@@ -1,0 +1,99 @@
+.content {
+    padding-top: 2%;
+    width: 100%;
+    background-color: #f7f7f7;
+    /* background-color: brown; */
+}
+
+
+.shop-container {
+    width: 100%;
+    /* border: 1px solid rgba(0, 0, 0, 0.5); */
+    text-align: center;
+
+}
+
+.shop-content {
+    /* display: flex; */
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow-x: hidden;
+    background-color: #f7f7f7;
+    /* margin-right: 5%; */
+}
+
+
+.shop-sidenav {
+    padding: 2vw;
+    width: 20%;
+    /* border: 1px solid rgba(0, 0, 0, 0.5); */
+    text-align: left;
+    font-size: 1.2vw; 
+    height: 100%;  
+    background-color: brown;
+    color: wheat;
+
+}
+
+.shop-sidenav a:hover{
+    color: white;
+    cursor: pointer;
+    
+}
+
+.shop-sidenav a{
+    margin-top: 10vw;
+    
+}
+
+
+.navButton {
+    width: 100%;
+    background-color: brown;
+    color: wheat;
+}
+
+.navButton:hover{
+    color: white;
+}
+
+.navMenu a{
+    color: wheat;
+
+}
+.navMenu{
+    background-color: brown;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    font-size: 1.2vw;
+    color: wheat;
+}
+
+.contentHeader{
+    padding-left: 2vw;
+    padding-bottom: 1vw;
+
+}
+
+.contentHeader a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contentHeader a:hover{
+    color: brown;
+}
+
+.searchButton{
+    background-color: #f7f7f7;
+    color: brown;
+    border-color: brown;
+}
+
+.searchButton:hover{
+    background-color: brown;
+    color: white;
+}

@@ -1,0 +1,96 @@
+<form class="loginForm mt-5">
+    <h3 class="text-center mb-5">Prijava</h3>
+    <!-- Email input -->
+    <div class="mb-4 col-md-8 offset-md-2">
+        <label class="form-label" for="email">E-mail</label>
+        <input type="email" name="email" [(ngModel)]="email" class="form-control" [disabled]="userExists == true" />
+    </div>
+
+    <!-- Password input -->
+    <div class="mb-4 col-md-8 offset-md-2">
+        <label class="form-label" for="password">Lozinka</label>
+        <input type="password" name="password" [(ngModel)]="password" class="form-control"
+            [disabled]="userExists == true" />
+
+    </div>
+
+    <!-- 2 column grid layout for inline styling -->
+    <div class="row ">
+
+
+        <div *ngIf="userExists;else errorContent">
+            <!-- <div class="col-sm-6" class="text-center">
+                <img src="{{qrCodeImage}}">
+            </div> -->
+            <div class="row">
+
+
+                <div class=" col-sm-1 offset-md-3">
+                    <input type="text" maxlength="1" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+                        class="form-control" style="width: 2.2rem" name="qrDigit1" [(ngModel)]="qrDigit1" />
+                </div>
+                <div class=" col-sm-1 ">
+                    <input type="text" maxlength="1" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+                        class="form-control" style="width: 2.2rem" name="qrDigit2" [(ngModel)]="qrDigit2" />
+                </div>
+                <div class=" col-sm-1 ">
+                    <input type="text" maxlength="1" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+                        class="form-control" style="width: 2.2rem" name="qrDigit3" [(ngModel)]="qrDigit3" />
+                </div>
+                <div class=" col-sm-1">
+                    <input type="text" maxlength="1" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+                        class="form-control" style="width: 2.2rem" name="qrDigit4" [(ngModel)]="qrDigit4" />
+                </div>
+                <div class=" col-sm-1">
+                    <input type="text" maxlength="1" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+                        class="form-control" style="width: 2.2rem" name="qrDigit5" [(ngModel)]="qrDigit5" />
+                </div>
+                <div class=" col-sm-1 ">
+                    <input type="text" maxlength="1" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+                        class="form-control" style="width: 2.2rem" name="qrDigit6" [(ngModel)]="qrDigit6" />
+                </div>
+
+                <div *ngIf="!qrCodeVerified">
+                    <div class="text-center mb-4">
+                        {{qrErrorMessage}}
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <ng-template #errorContent>
+            <div class="text-center mb-4">
+                {{errorMessage}}
+            </div>
+        </ng-template>
+
+    </div>
+    <div class="row ">
+
+        <div class="col-md-6 offset-md-3" *ngIf="!userExists;else buttonFor2FALogin">
+            <button type="button " class="btn btn-outline-success  btn-block w-100 " (click)="login()">Prijava</button>
+        </div>
+        <ng-template #buttonFor2FALogin>
+            <div class="col-md-6 offset-md-3">
+                <button type="button " class="btn btn-outline-success  btn-block w-100 "
+                    (click)="twoFALogin()">Prijava</button>
+            </div>
+        </ng-template>
+
+        <!-- 
+        <div class="col-md-2">
+            <a href="#!"  >Zaboravili ste lozinku?</a>
+        </div> -->
+    </div>
+
+    <br />
+
+
+    <!-- Register buttons -->
+    <div class="text-center ">
+        <p>Nemate nalog? <a routerLink="/registration">Registracija</a></p>
+
+    </div>
+</form>

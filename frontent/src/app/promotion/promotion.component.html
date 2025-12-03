@@ -1,0 +1,51 @@
+<h1 class="title">Sniženi art</h1>
+
+
+<div class="wrapper">
+
+    <div class="card" style="width: 20vw;" *ngFor="let item of discountedProducts">
+        <img class="card-img-top" src={{item.photo}} alt="Item card">
+        <div class="middle">
+            <div class="text"><button type="button" class="btn btn-secondary" (click)="itemDetails(item)">
+                    Detalji
+                </button></div>
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">{{item.name}} {{item.description.weight}}</h5>
+            <div>
+                <p class="card-text" [ngStyle]="{'color': 'red'}">{{item.discountPrice}} RSD</p>
+            </div>
+
+
+            <div class="addingOption">
+
+                <!-- Change the `data-field` of buttons and `name` of input field's for multiple plus minus buttons-->
+                <div class="input-group plus-minus-input">
+                    <div class="input-group-button">
+                        <button type="button" class="increment-decrement-button" data-quantity="minus"
+                            data-field="quantity" (click)="itemQuantityDecrement(itemQuantity.id)">
+                            <i class="fa fa-minus" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                    <input #itemQuantity class="input-group-field" type="number" name="quantity" value="0" min="0"
+                        id="itemQuantity{{item.id}}">
+                    <div class="input-group-button">
+                        <button type="button" class="increment-decrement-button" data-quantity="plus"
+                            data-field="quantity" (click)="itemQuantityIncrement(itemQuantity.id)">
+                            <i class="fa fa-plus" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                </div>
+
+
+
+
+                <button type="button" class="btn btn-success"
+                    (click)="addToCart(item, itemQuantity.value, itemQuantity.id)">
+                    Dodaj
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>

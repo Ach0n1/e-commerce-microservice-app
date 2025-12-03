@@ -1,0 +1,10 @@
+.appContent{
+width: 100%;
+}
+
+footer{
+    padding-top: 10vw;
+    padding-bottom: 2vw;
+    background-color: #f7f7f7;
+    text-align: center;
+}

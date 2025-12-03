@@ -1,0 +1,50 @@
+<form class="registrationForm mt-5 mb-5" [formGroup]="registrationForm" (ngSubmit)="registration(registrationForm)">
+    <h3 class="text-center mb-5">Registracija</h3>
+
+    <div class="mb-4 col-md-8 offset-md-2 ">
+        <label class="form-label" for="firstName">Ime</label>
+        <input type="text" name="firstName" formControlName="firstName" class="form-control" />
+    </div>
+
+    <div class="mb-4 col-md-8 offset-md-2">
+        <label class="form-label" for="lastName">Prezime</label>
+        <input type="text" name="lastName" formControlName="lastName" class="form-control" />
+    </div>
+
+    <!-- Email input -->
+    <div class="mb-4 col-md-8 offset-md-2">
+        <label class="form-label" for="email">E-mail</label>
+        <input type="email" name="email" formControlName="email" class="form-control" />
+    </div>
+
+    <!-- Password input -->
+    <div class="mb-4 col-md-8 offset-md-2">
+        <label class="form-label" for="password">Lozinka</label>
+        <input type="password" name="password" formControlName="password" class="form-control" />
+
+    </div>
+    <div class="col-sm-6" class="text-center">
+        <img src="{{qrCodeImage}}">
+    </div>
+
+    <!-- 2 column grid layout for inline styling -->
+    <div class="row ">
+
+        <div class="text-center mb-4">
+            {{registrationMessage}}
+        </div>
+
+        <div class="col-md-6 offset-md-3">
+            <button type="submit" class="btn btn-outline-success  btn-block w-100">Registracija</button>
+        </div>
+
+        <!-- 
+        <div class="col-md-2">
+            <a href="#!"  >Zaboravili ste lozinku?</a>
+        </div> -->
+    </div>
+
+
+
+
+</form>

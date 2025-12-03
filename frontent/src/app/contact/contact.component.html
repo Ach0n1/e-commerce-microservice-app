@@ -1,0 +1,134 @@
+<div class="container">
+    <h1>Pronadji prodavnicu</h1>
+    <div class=" row shopsInformations">
+        <div class="col-md-2">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Moja prodavnica Zvezdara</h5>
+                    <p class="card-text">Batutova 12</p>
+                    <p class="workingHours"> Radno vreme:
+                        <br>pon: 08:00h - 20:00h
+                        <br>uto: 08:00h - 20:00h
+                        <br>sre: 08:00h - 20:00h
+                        <br>čet: 08:00h - 20:00h
+                        <br>pet: 08:00h - 20:00h
+                        <br>sub: 08:00h - 17:00h
+                        <br>ned: Neradan dan
+                    </p>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2 ">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Moja prodavnica Zemun</h5>
+                    <p class="card-text">Prvomajska 4</p>
+                    <p class="workingHours"> Radno vreme:
+                        <br>pon: 08:00h - 20:00h
+                        <br>uto: 08:00h - 20:00h
+                        <br>sre: 08:00h - 20:00h
+                        <br>čet: 08:00h - 20:00h
+                        <br>pet: 08:00h - 20:00h
+                        <br>sub: Neradan dan
+                        <br>ned: Neradan dan
+                    </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Moja prodavnica Novi Beograd</h5>
+                    <p class="card-text">Gandijeva 133</p>
+                    <p class="workingHours"> Radno vreme:
+                        <br>pon: 00:00h - 24:00h
+                        <br>uto: 00:00h - 24:00h
+                        <br>sre: 00:00h - 24:00h
+                        <br>čet: 00:00h - 24:00h
+                        <br>pet: 00:00h - 24:00h
+                        <br>sub: 00:00h - 24:00h
+                        <br>ned: 00:00h - 24:00h
+                    </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2 ">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Moja prodavnica Čukarica</h5>
+                    <p class="card-text">Jablanička 5</p>
+                    <p class="workingHours"> Radno vreme:
+                        <br>pon: 09:00h - 17:00h
+                        <br>uto: 09:00h - 17:00h
+                        <br>sre: 09:00h - 17:00h
+                        <br>čet: 09:00h - 17:00h
+                        <br>pet: 09:00h - 17:00h
+                        <br>sub: 08:00h - 14:00h
+                        <br>ned: Neradan dan
+                    </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Moja prodavnica Voždovac</h5>
+                    <p class="card-text">Vojvode Stepe 521</p>
+                    <p class="workingHours"> Radno vreme:
+                        <br>pon: 08:00h - 20:00h
+                        <br>uto: 08:00h - 20:00h
+                        <br>sre: 08:00h - 20:00h
+                        <br>čet: 08:00h - 20:00h
+                        <br>pet: 08:00h - 20:00h
+                        <br>sub: 08:00h - 20:00h
+                        <br>ned: Neradan dan
+                    </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Moja prodavnica Palilula</h5>
+                    <p class="card-text">Dolovska 11</p>
+                    <p class="workingHours"> Radno vreme:
+                        <br>pon: 08:00h - 20:00h
+                        <br>uto: 08:00h - 20:00h
+                        <br>sre: 08:00h - 20:00h
+                        <br>čet: 08:00h - 20:00h
+                        <br>pet: 08:00h - 20:00h
+                        <br>sub: 08:00h - 20:00h
+                        <br>ned: Neradan dan
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+
+<google-map height="40vw" width="100%" [center]="center" [zoom]="zoom" (mapClick)="moveMap($event)"
+    (mapMousemove)="move($event)">
+    <map-marker #markerElem="mapMarker" *ngFor="let marker of markers" [position]="marker.position"
+        (mapClick)="openInfo(markerElem, marker.info)">
+    </map-marker>
+
+    <map-info-window [options]="mapInfoOptions">{{ infoContent }}</map-info-window>
+</google-map>
+
+
+
+<div>Latitude: {{display?.lat}}</div>
+<div>Longitude: {{display?.lng}}</div>
